@@ -1,7 +1,9 @@
-import psycopg2, csv, re
+import psycopg2
 import csv, re
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime
+from os.path import isfile, join
+from os import listdir
 
 table_name = 'zno_results'
 
@@ -140,7 +142,12 @@ def custom_query(cursor):
     query = open('SQL/custom_query.sql', encoding='utf8')
     cursor.execute(query.read())
     data = cursor.fetchall()
-    print('Custom query result:\n', data)
+
+    file_result = 'DATA/custom_query_result.txt'
+    with open(file_result, 'w') as f:
+        f.write('\n'.join(['Best grade for Eng test in %s is %s' % (i,j) for (i, j) in data]))
+
+    return file_result
 
 def main():
     conn = None
@@ -159,10 +166,16 @@ def main():
         print('{} table created'.format(table_name))
         csv_file_pathes = ['DATA/Odata2019File.csv', 'DATA/Odata2020File.csv']
 
-        print('Preparing files...')
+        print('Preparing files')
         all_pathes = []
         for path in csv_file_pathes:
-            file_pathes = prepare_data(path)
+            # file_pathes = prepare_data(path)
+
+            file_pathes = ['DATA/'+f for f in listdir('DATA/')
+                           if isfile(join('DATA/', f))
+                                and 'encoded_' in f
+                                and re.findall(r'\d+', path)[0] in f]
+
             all_pathes.append(file_pathes)
 
         all_pathes = [item for sublist in all_pathes for item in sublist]
@@ -172,10 +185,14 @@ def main():
 
         cursor.execute("SELECT * FROM audit where status != 'copied';")
         waiting_files = [item[0] for item in cursor.fetchall()]
-        print('Not copied files detected:', ', '.join(waiting_files))
-        insert_data(waiting_files, cursor, conn, cols)
+        if waiting_files:
+            print('Not copied files detected:', ', '.join(waiting_files))
+            insert_data(waiting_files, cursor, conn, cols)
+        else:
+            print('All files successfuly inserted')
 
-        custom_query(cursor)
+        file_result = custom_query(cursor)
+        print('Custom query result is stored in %s' % file_result)
         cursor.close()
 
     except (Exception, psycopg2.DatabaseError) as error:
