@@ -159,7 +159,6 @@ def main():
             host="192.168.99.100"
         )
 
-        conn.autocommit = True
         cursor = conn.cursor()
 
         cols = create_table(cursor, conn)
