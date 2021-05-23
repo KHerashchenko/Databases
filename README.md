@@ -49,3 +49,7 @@ docker-compose -f migrate.yaml up
 ```
 
 Результат выполнения заносится в дефолтную таблицу с версиями миграций.
+
+![Logical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/logical.png)
+
+![Physical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/physical.png)
