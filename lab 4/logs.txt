@@ -1,0 +1,1476 @@
+2021-05-23 11:59:56,979: Connecting to db
+2021-05-23 11:59:56,984: Populating Audit Collection
+2021-05-23 11:59:57,030: Populating Zno_data Collection with file DATA/Odata2019File.csv
+2021-05-23 11:59:57,343: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:57,344: Updating Audit Collection
+2021-05-23 11:59:57,632: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:57,633: Updating Audit Collection
+2021-05-23 11:59:57,880: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:57,881: Updating Audit Collection
+2021-05-23 11:59:58,112: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:58,112: Updating Audit Collection
+2021-05-23 11:59:58,340: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:58,341: Updating Audit Collection
+2021-05-23 11:59:58,577: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:58,577: Updating Audit Collection
+2021-05-23 11:59:58,802: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:58,802: Updating Audit Collection
+2021-05-23 11:59:59,041: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:59,041: Updating Audit Collection
+2021-05-23 11:59:59,288: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:59,289: Updating Audit Collection
+2021-05-23 11:59:59,522: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:59,522: Updating Audit Collection
+2021-05-23 11:59:59,745: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:59,745: Updating Audit Collection
+2021-05-23 11:59:59,985: Populating Zno_data Collection with 1000 rows
+2021-05-23 11:59:59,985: Updating Audit Collection
+2021-05-23 12:00:00,219: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:00,219: Updating Audit Collection
+2021-05-23 12:00:00,468: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:00,468: Updating Audit Collection
+2021-05-23 12:00:00,738: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:00,738: Updating Audit Collection
+2021-05-23 12:00:01,013: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:01,013: Updating Audit Collection
+2021-05-23 12:00:01,292: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:01,292: Updating Audit Collection
+2021-05-23 12:00:01,541: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:01,541: Updating Audit Collection
+2021-05-23 12:00:01,775: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:01,775: Updating Audit Collection
+2021-05-23 12:00:02,014: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:02,014: Updating Audit Collection
+2021-05-23 12:00:02,245: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:02,245: Updating Audit Collection
+2021-05-23 12:00:02,478: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:02,478: Updating Audit Collection
+2021-05-23 12:00:02,704: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:02,704: Updating Audit Collection
+2021-05-23 12:00:02,949: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:02,949: Updating Audit Collection
+2021-05-23 12:00:03,198: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:03,198: Updating Audit Collection
+2021-05-23 12:00:03,417: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:03,417: Updating Audit Collection
+2021-05-23 12:00:03,648: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:03,648: Updating Audit Collection
+2021-05-23 12:00:03,864: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:03,864: Updating Audit Collection
+2021-05-23 12:00:04,093: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:04,093: Updating Audit Collection
+2021-05-23 12:00:04,332: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:04,332: Updating Audit Collection
+2021-05-23 12:00:04,555: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:04,555: Updating Audit Collection
+2021-05-23 12:00:04,779: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:04,779: Updating Audit Collection
+2021-05-23 12:00:05,006: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:05,006: Updating Audit Collection
+2021-05-23 12:00:05,232: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:05,232: Updating Audit Collection
+2021-05-23 12:00:05,472: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:05,472: Updating Audit Collection
+2021-05-23 12:00:05,714: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:05,715: Updating Audit Collection
+2021-05-23 12:00:06,008: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:06,008: Updating Audit Collection
+2021-05-23 12:00:06,298: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:06,298: Updating Audit Collection
+2021-05-23 12:00:06,538: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:06,538: Updating Audit Collection
+2021-05-23 12:00:06,766: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:06,766: Updating Audit Collection
+2021-05-23 12:00:06,993: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:06,993: Updating Audit Collection
+2021-05-23 12:00:07,976: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:07,976: Updating Audit Collection
+2021-05-23 12:00:10,879: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:10,880: Updating Audit Collection
+2021-05-23 12:00:11,405: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:11,405: Updating Audit Collection
+2021-05-23 12:00:11,631: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:11,631: Updating Audit Collection
+2021-05-23 12:00:11,849: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:11,849: Updating Audit Collection
+2021-05-23 12:00:12,079: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:12,079: Updating Audit Collection
+2021-05-23 12:00:12,309: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:12,309: Updating Audit Collection
+2021-05-23 12:00:12,553: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:12,553: Updating Audit Collection
+2021-05-23 12:00:12,782: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:12,782: Updating Audit Collection
+2021-05-23 12:00:13,015: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:13,016: Updating Audit Collection
+2021-05-23 12:00:13,269: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:13,269: Updating Audit Collection
+2021-05-23 12:00:13,572: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:13,572: Updating Audit Collection
+2021-05-23 12:00:13,858: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:13,858: Updating Audit Collection
+2021-05-23 12:00:14,097: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:14,097: Updating Audit Collection
+2021-05-23 12:00:14,336: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:14,337: Updating Audit Collection
+2021-05-23 12:00:14,558: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:14,558: Updating Audit Collection
+2021-05-23 12:00:14,781: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:14,781: Updating Audit Collection
+2021-05-23 12:00:15,005: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:15,005: Updating Audit Collection
+2021-05-23 12:00:15,232: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:15,232: Updating Audit Collection
+2021-05-23 12:00:15,775: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:15,776: Updating Audit Collection
+2021-05-23 12:00:16,000: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:16,000: Updating Audit Collection
+2021-05-23 12:00:16,232: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:16,233: Updating Audit Collection
+2021-05-23 12:00:16,485: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:16,485: Updating Audit Collection
+2021-05-23 12:00:16,933: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:16,933: Updating Audit Collection
+2021-05-23 12:00:17,162: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:17,162: Updating Audit Collection
+2021-05-23 12:00:17,384: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:17,384: Updating Audit Collection
+2021-05-23 12:00:17,610: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:17,610: Updating Audit Collection
+2021-05-23 12:00:17,845: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:17,845: Updating Audit Collection
+2021-05-23 12:00:18,087: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:18,087: Updating Audit Collection
+2021-05-23 12:00:18,345: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:18,345: Updating Audit Collection
+2021-05-23 12:00:18,640: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:18,640: Updating Audit Collection
+2021-05-23 12:00:18,918: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:18,919: Updating Audit Collection
+2021-05-23 12:00:19,299: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:19,299: Updating Audit Collection
+2021-05-23 12:00:19,528: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:19,529: Updating Audit Collection
+2021-05-23 12:00:19,753: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:19,753: Updating Audit Collection
+2021-05-23 12:00:19,972: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:19,972: Updating Audit Collection
+2021-05-23 12:00:20,214: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:20,214: Updating Audit Collection
+2021-05-23 12:00:20,434: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:20,434: Updating Audit Collection
+2021-05-23 12:00:20,655: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:20,655: Updating Audit Collection
+2021-05-23 12:00:20,962: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:20,962: Updating Audit Collection
+2021-05-23 12:00:21,185: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:21,185: Updating Audit Collection
+2021-05-23 12:00:21,409: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:21,409: Updating Audit Collection
+2021-05-23 12:00:21,636: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:21,636: Updating Audit Collection
+2021-05-23 12:00:21,863: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:21,864: Updating Audit Collection
+2021-05-23 12:00:22,156: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:22,156: Updating Audit Collection
+2021-05-23 12:00:22,387: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:22,387: Updating Audit Collection
+2021-05-23 12:00:22,618: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:22,618: Updating Audit Collection
+2021-05-23 12:00:22,854: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:22,854: Updating Audit Collection
+2021-05-23 12:00:23,114: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:23,114: Updating Audit Collection
+2021-05-23 12:00:23,347: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:23,347: Updating Audit Collection
+2021-05-23 12:00:23,686: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:23,686: Updating Audit Collection
+2021-05-23 12:00:23,912: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:23,912: Updating Audit Collection
+2021-05-23 12:00:24,136: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:24,136: Updating Audit Collection
+2021-05-23 12:00:24,354: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:24,354: Updating Audit Collection
+2021-05-23 12:00:24,585: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:24,585: Updating Audit Collection
+2021-05-23 12:00:24,833: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:24,833: Updating Audit Collection
+2021-05-23 12:00:25,142: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:25,142: Updating Audit Collection
+2021-05-23 12:00:25,438: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:25,438: Updating Audit Collection
+2021-05-23 12:00:25,676: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:25,676: Updating Audit Collection
+2021-05-23 12:00:25,912: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:25,913: Updating Audit Collection
+2021-05-23 12:00:26,183: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:26,183: Updating Audit Collection
+2021-05-23 12:00:26,716: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:26,717: Updating Audit Collection
+2021-05-23 12:00:27,256: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:27,256: Updating Audit Collection
+2021-05-23 12:00:27,477: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:27,477: Updating Audit Collection
+2021-05-23 12:00:27,706: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:27,706: Updating Audit Collection
+2021-05-23 12:00:27,933: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:27,933: Updating Audit Collection
+2021-05-23 12:00:28,170: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:28,170: Updating Audit Collection
+2021-05-23 12:00:28,393: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:28,393: Updating Audit Collection
+2021-05-23 12:00:28,627: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:28,627: Updating Audit Collection
+2021-05-23 12:00:28,848: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:28,848: Updating Audit Collection
+2021-05-23 12:00:29,193: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:29,193: Updating Audit Collection
+2021-05-23 12:00:29,431: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:29,432: Updating Audit Collection
+2021-05-23 12:00:29,697: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:29,697: Updating Audit Collection
+2021-05-23 12:00:29,936: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:29,936: Updating Audit Collection
+2021-05-23 12:00:30,169: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:30,169: Updating Audit Collection
+2021-05-23 12:00:30,441: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:30,441: Updating Audit Collection
+2021-05-23 12:00:30,667: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:30,667: Updating Audit Collection
+2021-05-23 12:00:30,891: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:30,891: Updating Audit Collection
+2021-05-23 12:00:31,108: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:31,108: Updating Audit Collection
+2021-05-23 12:00:31,345: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:31,345: Updating Audit Collection
+2021-05-23 12:00:31,567: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:31,567: Updating Audit Collection
+2021-05-23 12:00:31,789: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:31,789: Updating Audit Collection
+2021-05-23 12:00:32,006: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:32,006: Updating Audit Collection
+2021-05-23 12:00:32,236: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:32,237: Updating Audit Collection
+2021-05-23 12:00:32,464: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:32,464: Updating Audit Collection
+2021-05-23 12:00:32,687: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:32,687: Updating Audit Collection
+2021-05-23 12:00:32,906: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:32,906: Updating Audit Collection
+2021-05-23 12:00:33,173: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:33,174: Updating Audit Collection
+2021-05-23 12:00:33,402: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:33,403: Updating Audit Collection
+2021-05-23 12:00:33,622: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:33,622: Updating Audit Collection
+2021-05-23 12:00:33,854: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:33,854: Updating Audit Collection
+2021-05-23 12:00:34,077: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:34,077: Updating Audit Collection
+2021-05-23 12:00:34,317: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:34,317: Updating Audit Collection
+2021-05-23 12:00:34,544: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:34,544: Updating Audit Collection
+2021-05-23 12:00:34,788: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:34,788: Updating Audit Collection
+2021-05-23 12:00:35,062: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:35,062: Updating Audit Collection
+2021-05-23 12:00:35,360: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:35,360: Updating Audit Collection
+2021-05-23 12:00:35,660: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:35,660: Updating Audit Collection
+2021-05-23 12:00:36,137: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:36,137: Updating Audit Collection
+2021-05-23 12:00:36,361: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:36,361: Updating Audit Collection
+2021-05-23 12:00:36,591: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:36,591: Updating Audit Collection
+2021-05-23 12:00:36,824: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:36,824: Updating Audit Collection
+2021-05-23 12:00:37,056: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:37,056: Updating Audit Collection
+2021-05-23 12:00:37,284: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:37,284: Updating Audit Collection
+2021-05-23 12:00:37,511: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:37,512: Updating Audit Collection
+2021-05-23 12:00:37,740: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:37,740: Updating Audit Collection
+2021-05-23 12:00:37,966: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:37,966: Updating Audit Collection
+2021-05-23 12:00:38,198: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:38,198: Updating Audit Collection
+2021-05-23 12:00:38,441: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:38,441: Updating Audit Collection
+2021-05-23 12:00:38,701: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:38,701: Updating Audit Collection
+2021-05-23 12:00:38,924: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:38,925: Updating Audit Collection
+2021-05-23 12:00:39,145: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:39,145: Updating Audit Collection
+2021-05-23 12:00:39,368: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:39,368: Updating Audit Collection
+2021-05-23 12:00:39,608: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:39,608: Updating Audit Collection
+2021-05-23 12:00:39,859: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:39,859: Updating Audit Collection
+2021-05-23 12:00:40,099: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:40,099: Updating Audit Collection
+2021-05-23 12:00:40,328: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:40,328: Updating Audit Collection
+2021-05-23 12:00:40,554: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:40,554: Updating Audit Collection
+2021-05-23 12:00:40,782: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:40,783: Updating Audit Collection
+2021-05-23 12:00:41,010: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:41,010: Updating Audit Collection
+2021-05-23 12:00:41,236: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:41,236: Updating Audit Collection
+2021-05-23 12:00:41,463: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:41,463: Updating Audit Collection
+2021-05-23 12:00:41,728: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:41,728: Updating Audit Collection
+2021-05-23 12:00:41,957: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:41,958: Updating Audit Collection
+2021-05-23 12:00:42,254: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:42,255: Updating Audit Collection
+2021-05-23 12:00:42,474: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:42,474: Updating Audit Collection
+2021-05-23 12:00:42,694: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:42,694: Updating Audit Collection
+2021-05-23 12:00:42,923: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:42,923: Updating Audit Collection
+2021-05-23 12:00:43,142: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:43,142: Updating Audit Collection
+2021-05-23 12:00:43,369: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:43,369: Updating Audit Collection
+2021-05-23 12:00:43,593: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:43,593: Updating Audit Collection
+2021-05-23 12:00:43,871: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:43,871: Updating Audit Collection
+2021-05-23 12:00:44,097: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:44,098: Updating Audit Collection
+2021-05-23 12:00:44,334: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:44,334: Updating Audit Collection
+2021-05-23 12:00:44,562: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:44,562: Updating Audit Collection
+2021-05-23 12:00:44,787: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:44,787: Updating Audit Collection
+2021-05-23 12:00:45,007: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:45,007: Updating Audit Collection
+2021-05-23 12:00:45,301: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:45,301: Updating Audit Collection
+2021-05-23 12:00:45,549: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:45,549: Updating Audit Collection
+2021-05-23 12:00:45,773: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:45,773: Updating Audit Collection
+2021-05-23 12:00:45,998: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:45,998: Updating Audit Collection
+2021-05-23 12:00:46,229: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:46,230: Updating Audit Collection
+2021-05-23 12:00:46,470: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:46,471: Updating Audit Collection
+2021-05-23 12:00:47,022: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:47,022: Updating Audit Collection
+2021-05-23 12:00:47,504: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:47,504: Updating Audit Collection
+2021-05-23 12:00:48,060: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:48,060: Updating Audit Collection
+2021-05-23 12:00:49,034: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:49,035: Updating Audit Collection
+2021-05-23 12:00:49,285: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:49,285: Updating Audit Collection
+2021-05-23 12:00:49,526: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:49,526: Updating Audit Collection
+2021-05-23 12:00:49,753: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:49,753: Updating Audit Collection
+2021-05-23 12:00:49,978: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:49,978: Updating Audit Collection
+2021-05-23 12:00:50,198: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:50,198: Updating Audit Collection
+2021-05-23 12:00:50,419: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:50,419: Updating Audit Collection
+2021-05-23 12:00:50,637: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:50,637: Updating Audit Collection
+2021-05-23 12:00:50,858: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:50,859: Updating Audit Collection
+2021-05-23 12:00:51,088: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:51,088: Updating Audit Collection
+2021-05-23 12:00:51,338: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:51,338: Updating Audit Collection
+2021-05-23 12:00:51,583: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:51,583: Updating Audit Collection
+2021-05-23 12:00:51,809: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:51,809: Updating Audit Collection
+2021-05-23 12:00:52,031: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:52,031: Updating Audit Collection
+2021-05-23 12:00:52,594: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:52,594: Updating Audit Collection
+2021-05-23 12:00:52,817: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:52,817: Updating Audit Collection
+2021-05-23 12:00:53,041: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:53,041: Updating Audit Collection
+2021-05-23 12:00:53,264: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:53,264: Updating Audit Collection
+2021-05-23 12:00:53,482: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:53,482: Updating Audit Collection
+2021-05-23 12:00:53,703: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:53,703: Updating Audit Collection
+2021-05-23 12:00:53,946: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:53,946: Updating Audit Collection
+2021-05-23 12:00:54,249: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:54,250: Updating Audit Collection
+2021-05-23 12:00:54,488: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:54,488: Updating Audit Collection
+2021-05-23 12:00:54,720: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:54,720: Updating Audit Collection
+2021-05-23 12:00:55,243: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:55,243: Updating Audit Collection
+2021-05-23 12:00:55,469: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:55,469: Updating Audit Collection
+2021-05-23 12:00:55,691: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:55,691: Updating Audit Collection
+2021-05-23 12:00:55,910: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:55,910: Updating Audit Collection
+2021-05-23 12:00:56,129: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:56,129: Updating Audit Collection
+2021-05-23 12:00:56,453: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:56,454: Updating Audit Collection
+2021-05-23 12:00:56,679: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:56,679: Updating Audit Collection
+2021-05-23 12:00:56,913: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:56,913: Updating Audit Collection
+2021-05-23 12:00:57,136: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:57,136: Updating Audit Collection
+2021-05-23 12:00:57,354: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:57,354: Updating Audit Collection
+2021-05-23 12:00:57,676: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:57,677: Updating Audit Collection
+2021-05-23 12:00:57,908: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:57,908: Updating Audit Collection
+2021-05-23 12:00:58,138: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:58,138: Updating Audit Collection
+2021-05-23 12:00:58,373: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:58,373: Updating Audit Collection
+2021-05-23 12:00:58,606: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:58,607: Updating Audit Collection
+2021-05-23 12:00:58,833: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:58,833: Updating Audit Collection
+2021-05-23 12:00:59,109: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:59,109: Updating Audit Collection
+2021-05-23 12:00:59,336: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:59,337: Updating Audit Collection
+2021-05-23 12:00:59,575: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:59,575: Updating Audit Collection
+2021-05-23 12:00:59,798: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:00:59,799: Updating Audit Collection
+2021-05-23 12:01:00,026: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:00,026: Updating Audit Collection
+2021-05-23 12:01:00,259: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:00,259: Updating Audit Collection
+2021-05-23 12:01:00,488: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:00,488: Updating Audit Collection
+2021-05-23 12:01:00,776: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:00,776: Updating Audit Collection
+2021-05-23 12:01:01,057: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:01,057: Updating Audit Collection
+2021-05-23 12:01:01,318: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:01,319: Updating Audit Collection
+2021-05-23 12:01:01,753: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:01,753: Updating Audit Collection
+2021-05-23 12:01:01,982: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:01,982: Updating Audit Collection
+2021-05-23 12:01:02,215: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:02,215: Updating Audit Collection
+2021-05-23 12:01:02,449: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:02,449: Updating Audit Collection
+2021-05-23 12:01:02,673: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:02,674: Updating Audit Collection
+2021-05-23 12:01:02,935: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:02,935: Updating Audit Collection
+2021-05-23 12:01:03,223: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:03,223: Updating Audit Collection
+2021-05-23 12:01:03,459: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:03,459: Updating Audit Collection
+2021-05-23 12:01:03,694: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:03,695: Updating Audit Collection
+2021-05-23 12:01:03,918: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:03,918: Updating Audit Collection
+2021-05-23 12:01:04,140: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:04,140: Updating Audit Collection
+2021-05-23 12:01:04,462: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:04,462: Updating Audit Collection
+2021-05-23 12:01:04,696: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:04,696: Updating Audit Collection
+2021-05-23 12:01:04,939: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:04,939: Updating Audit Collection
+2021-05-23 12:01:05,168: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:05,168: Updating Audit Collection
+2021-05-23 12:01:05,403: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:05,403: Updating Audit Collection
+2021-05-23 12:01:05,634: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:05,635: Updating Audit Collection
+2021-05-23 12:01:05,869: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:05,869: Updating Audit Collection
+2021-05-23 12:01:06,096: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:06,096: Updating Audit Collection
+2021-05-23 12:01:06,338: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:06,338: Updating Audit Collection
+2021-05-23 12:01:07,742: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:07,742: Updating Audit Collection
+2021-05-23 12:01:09,659: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:09,659: Updating Audit Collection
+2021-05-23 12:01:11,122: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:11,123: Updating Audit Collection
+2021-05-23 12:01:14,217: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:14,217: Updating Audit Collection
+2021-05-23 12:01:17,698: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:17,698: Updating Audit Collection
+2021-05-23 12:01:19,553: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:19,553: Updating Audit Collection
+2021-05-23 12:01:22,058: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:22,058: Updating Audit Collection
+2021-05-23 12:01:23,676: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:23,676: Updating Audit Collection
+2021-05-23 12:01:24,182: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:24,182: Updating Audit Collection
+2021-05-23 12:01:24,412: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:24,412: Updating Audit Collection
+2021-05-23 12:01:24,637: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:24,637: Updating Audit Collection
+2021-05-23 12:01:24,857: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:24,857: Updating Audit Collection
+2021-05-23 12:01:25,083: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:25,083: Updating Audit Collection
+2021-05-23 12:01:25,316: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:25,317: Updating Audit Collection
+2021-05-23 12:01:25,557: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:25,557: Updating Audit Collection
+2021-05-23 12:01:25,778: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:25,778: Updating Audit Collection
+2021-05-23 12:01:25,998: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:25,998: Updating Audit Collection
+2021-05-23 12:01:26,219: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:26,219: Updating Audit Collection
+2021-05-23 12:01:26,438: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:26,438: Updating Audit Collection
+2021-05-23 12:01:26,659: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:26,659: Updating Audit Collection
+2021-05-23 12:01:26,879: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:26,879: Updating Audit Collection
+2021-05-23 12:01:27,102: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:27,102: Updating Audit Collection
+2021-05-23 12:01:27,318: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:27,318: Updating Audit Collection
+2021-05-23 12:01:27,547: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:27,547: Updating Audit Collection
+2021-05-23 12:01:27,831: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:27,831: Updating Audit Collection
+2021-05-23 12:01:28,066: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:28,066: Updating Audit Collection
+2021-05-23 12:01:28,304: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:28,304: Updating Audit Collection
+2021-05-23 12:01:28,534: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:28,534: Updating Audit Collection
+2021-05-23 12:01:28,754: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:28,755: Updating Audit Collection
+2021-05-23 12:01:28,991: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:28,991: Updating Audit Collection
+2021-05-23 12:01:29,299: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:29,299: Updating Audit Collection
+2021-05-23 12:01:29,525: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:29,525: Updating Audit Collection
+2021-05-23 12:01:29,747: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:29,747: Updating Audit Collection
+2021-05-23 12:01:29,993: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:29,993: Updating Audit Collection
+2021-05-23 12:01:30,230: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:30,231: Updating Audit Collection
+2021-05-23 12:01:30,454: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:30,455: Updating Audit Collection
+2021-05-23 12:01:30,677: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:30,677: Updating Audit Collection
+2021-05-23 12:01:30,898: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:30,898: Updating Audit Collection
+2021-05-23 12:01:31,130: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:31,130: Updating Audit Collection
+2021-05-23 12:01:31,702: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:31,702: Updating Audit Collection
+2021-05-23 12:01:31,921: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:31,921: Updating Audit Collection
+2021-05-23 12:01:32,167: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:32,167: Updating Audit Collection
+2021-05-23 12:01:32,433: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:32,433: Updating Audit Collection
+2021-05-23 12:01:32,669: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:32,669: Updating Audit Collection
+2021-05-23 12:01:32,891: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:32,891: Updating Audit Collection
+2021-05-23 12:01:33,123: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:33,123: Updating Audit Collection
+2021-05-23 12:01:33,362: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:33,362: Updating Audit Collection
+2021-05-23 12:01:33,625: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:33,625: Updating Audit Collection
+2021-05-23 12:01:33,989: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:33,990: Updating Audit Collection
+2021-05-23 12:01:34,215: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:34,215: Updating Audit Collection
+2021-05-23 12:01:34,449: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:34,449: Updating Audit Collection
+2021-05-23 12:01:34,679: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:34,679: Updating Audit Collection
+2021-05-23 12:01:34,900: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:34,900: Updating Audit Collection
+2021-05-23 12:01:35,118: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:35,119: Updating Audit Collection
+2021-05-23 12:01:35,978: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:35,978: Updating Audit Collection
+2021-05-23 12:01:36,755: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:36,755: Updating Audit Collection
+2021-05-23 12:01:37,464: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:37,464: Updating Audit Collection
+2021-05-23 12:01:38,028: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:38,028: Updating Audit Collection
+2021-05-23 12:01:38,567: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:38,568: Updating Audit Collection
+2021-05-23 12:01:39,245: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:39,245: Updating Audit Collection
+2021-05-23 12:01:39,468: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:39,468: Updating Audit Collection
+2021-05-23 12:01:39,688: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:39,688: Updating Audit Collection
+2021-05-23 12:01:39,906: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:39,906: Updating Audit Collection
+2021-05-23 12:01:40,151: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:40,151: Updating Audit Collection
+2021-05-23 12:01:40,375: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:40,376: Updating Audit Collection
+2021-05-23 12:01:40,596: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:40,597: Updating Audit Collection
+2021-05-23 12:01:40,814: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:40,814: Updating Audit Collection
+2021-05-23 12:01:41,033: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:41,033: Updating Audit Collection
+2021-05-23 12:01:41,251: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:41,251: Updating Audit Collection
+2021-05-23 12:01:41,483: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:41,483: Updating Audit Collection
+2021-05-23 12:01:41,718: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:41,718: Updating Audit Collection
+2021-05-23 12:01:41,940: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:41,940: Updating Audit Collection
+2021-05-23 12:01:42,164: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:42,164: Updating Audit Collection
+2021-05-23 12:01:42,382: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:42,383: Updating Audit Collection
+2021-05-23 12:01:42,604: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:42,604: Updating Audit Collection
+2021-05-23 12:01:42,822: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:42,822: Updating Audit Collection
+2021-05-23 12:01:43,056: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:43,056: Updating Audit Collection
+2021-05-23 12:01:43,292: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:43,292: Updating Audit Collection
+2021-05-23 12:01:43,527: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:43,527: Updating Audit Collection
+2021-05-23 12:01:43,747: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:43,747: Updating Audit Collection
+2021-05-23 12:01:43,963: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:43,963: Updating Audit Collection
+2021-05-23 12:01:44,189: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:44,189: Updating Audit Collection
+2021-05-23 12:01:44,421: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:44,421: Updating Audit Collection
+2021-05-23 12:01:44,663: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:44,663: Updating Audit Collection
+2021-05-23 12:01:44,888: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:44,888: Updating Audit Collection
+2021-05-23 12:01:45,106: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:45,106: Updating Audit Collection
+2021-05-23 12:01:45,327: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:45,327: Updating Audit Collection
+2021-05-23 12:01:45,544: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:45,545: Updating Audit Collection
+2021-05-23 12:01:45,773: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:45,773: Updating Audit Collection
+2021-05-23 12:01:46,005: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:46,005: Updating Audit Collection
+2021-05-23 12:01:46,222: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:46,222: Updating Audit Collection
+2021-05-23 12:01:46,460: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:46,460: Updating Audit Collection
+2021-05-23 12:01:46,695: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:46,695: Updating Audit Collection
+2021-05-23 12:01:46,925: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:46,925: Updating Audit Collection
+2021-05-23 12:01:47,161: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:47,161: Updating Audit Collection
+2021-05-23 12:01:47,388: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:47,389: Updating Audit Collection
+2021-05-23 12:01:47,574: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:47,574: Updating Audit Collection
+2021-05-23 12:01:47,577: Inserting from DATA/Odata2019File.csv is finished
+2021-05-23 12:01:47,580: Populating Zno_data Collection with file DATA/Odata2020File.csv
+2021-05-23 12:01:47,804: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:47,804: Updating Audit Collection
+2021-05-23 12:01:48,027: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:48,028: Updating Audit Collection
+2021-05-23 12:01:48,250: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:48,250: Updating Audit Collection
+2021-05-23 12:01:48,470: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:48,470: Updating Audit Collection
+2021-05-23 12:01:48,694: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:48,695: Updating Audit Collection
+2021-05-23 12:01:48,931: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:48,931: Updating Audit Collection
+2021-05-23 12:01:49,174: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:49,174: Updating Audit Collection
+2021-05-23 12:01:49,399: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:49,399: Updating Audit Collection
+2021-05-23 12:01:49,642: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:49,642: Updating Audit Collection
+2021-05-23 12:01:49,886: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:49,887: Updating Audit Collection
+2021-05-23 12:01:50,124: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:50,125: Updating Audit Collection
+2021-05-23 12:01:50,349: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:50,350: Updating Audit Collection
+2021-05-23 12:01:50,582: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:50,582: Updating Audit Collection
+2021-05-23 12:01:50,803: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:50,803: Updating Audit Collection
+2021-05-23 12:01:51,027: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:51,027: Updating Audit Collection
+2021-05-23 12:01:51,270: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:51,270: Updating Audit Collection
+2021-05-23 12:01:51,732: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:51,733: Updating Audit Collection
+2021-05-23 12:01:52,282: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:52,282: Updating Audit Collection
+2021-05-23 12:01:52,877: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:52,877: Updating Audit Collection
+2021-05-23 12:01:53,743: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:53,743: Updating Audit Collection
+2021-05-23 12:01:54,032: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:54,032: Updating Audit Collection
+2021-05-23 12:01:54,292: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:54,292: Updating Audit Collection
+2021-05-23 12:01:54,534: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:54,534: Updating Audit Collection
+2021-05-23 12:01:54,762: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:54,762: Updating Audit Collection
+2021-05-23 12:01:54,998: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:54,999: Updating Audit Collection
+2021-05-23 12:01:55,441: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:55,441: Updating Audit Collection
+2021-05-23 12:01:55,672: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:55,672: Updating Audit Collection
+2021-05-23 12:01:55,896: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:55,896: Updating Audit Collection
+2021-05-23 12:01:56,128: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:56,128: Updating Audit Collection
+2021-05-23 12:01:56,371: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:56,371: Updating Audit Collection
+2021-05-23 12:01:56,617: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:56,617: Updating Audit Collection
+2021-05-23 12:01:56,893: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:56,893: Updating Audit Collection
+2021-05-23 12:01:57,150: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:57,150: Updating Audit Collection
+2021-05-23 12:01:57,397: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:57,397: Updating Audit Collection
+2021-05-23 12:01:57,643: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:57,643: Updating Audit Collection
+2021-05-23 12:01:57,974: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:57,974: Updating Audit Collection
+2021-05-23 12:01:58,192: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:58,193: Updating Audit Collection
+2021-05-23 12:01:58,421: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:58,422: Updating Audit Collection
+2021-05-23 12:01:58,648: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:58,648: Updating Audit Collection
+2021-05-23 12:01:58,867: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:58,868: Updating Audit Collection
+2021-05-23 12:01:59,135: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:59,135: Updating Audit Collection
+2021-05-23 12:01:59,358: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:59,358: Updating Audit Collection
+2021-05-23 12:01:59,578: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:59,578: Updating Audit Collection
+2021-05-23 12:01:59,797: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:01:59,798: Updating Audit Collection
+2021-05-23 12:02:00,022: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:00,022: Updating Audit Collection
+2021-05-23 12:02:00,305: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:00,305: Updating Audit Collection
+2021-05-23 12:02:00,609: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:00,609: Updating Audit Collection
+2021-05-23 12:02:00,881: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:00,881: Updating Audit Collection
+2021-05-23 12:02:01,139: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:01,139: Updating Audit Collection
+2021-05-23 12:02:01,359: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:01,359: Updating Audit Collection
+2021-05-23 12:02:01,580: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:01,580: Updating Audit Collection
+2021-05-23 12:02:01,808: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:01,808: Updating Audit Collection
+2021-05-23 12:02:02,201: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:02,201: Updating Audit Collection
+2021-05-23 12:02:02,422: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:02,423: Updating Audit Collection
+2021-05-23 12:02:02,667: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:02,667: Updating Audit Collection
+2021-05-23 12:02:02,896: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:02,896: Updating Audit Collection
+2021-05-23 12:02:03,121: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:03,121: Updating Audit Collection
+2021-05-23 12:02:03,387: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:03,387: Updating Audit Collection
+2021-05-23 12:02:03,615: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:03,615: Updating Audit Collection
+2021-05-23 12:02:03,842: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:03,842: Updating Audit Collection
+2021-05-23 12:02:04,062: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:04,062: Updating Audit Collection
+2021-05-23 12:02:04,290: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:04,291: Updating Audit Collection
+2021-05-23 12:02:04,511: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:04,511: Updating Audit Collection
+2021-05-23 12:02:04,807: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:04,808: Updating Audit Collection
+2021-05-23 12:02:05,054: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:05,054: Updating Audit Collection
+2021-05-23 12:02:05,273: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:05,273: Updating Audit Collection
+2021-05-23 12:02:05,495: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:05,495: Updating Audit Collection
+2021-05-23 12:02:05,715: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:05,715: Updating Audit Collection
+2021-05-23 12:02:06,000: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:06,000: Updating Audit Collection
+2021-05-23 12:02:06,228: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:06,228: Updating Audit Collection
+2021-05-23 12:02:06,458: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:06,458: Updating Audit Collection
+2021-05-23 12:02:06,715: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:06,715: Updating Audit Collection
+2021-05-23 12:02:07,069: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:07,069: Updating Audit Collection
+2021-05-23 12:02:07,299: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:07,300: Updating Audit Collection
+2021-05-23 12:02:07,550: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:07,550: Updating Audit Collection
+2021-05-23 12:02:07,775: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:07,775: Updating Audit Collection
+2021-05-23 12:02:07,997: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:07,997: Updating Audit Collection
+2021-05-23 12:02:08,240: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:08,240: Updating Audit Collection
+2021-05-23 12:02:08,481: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:08,481: Updating Audit Collection
+2021-05-23 12:02:08,755: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:08,755: Updating Audit Collection
+2021-05-23 12:02:08,975: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:08,975: Updating Audit Collection
+2021-05-23 12:02:09,209: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:09,209: Updating Audit Collection
+2021-05-23 12:02:09,437: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:09,437: Updating Audit Collection
+2021-05-23 12:02:09,676: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:09,676: Updating Audit Collection
+2021-05-23 12:02:09,952: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:09,952: Updating Audit Collection
+2021-05-23 12:02:10,184: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:10,184: Updating Audit Collection
+2021-05-23 12:02:10,411: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:10,411: Updating Audit Collection
+2021-05-23 12:02:10,635: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:10,635: Updating Audit Collection
+2021-05-23 12:02:10,891: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:10,891: Updating Audit Collection
+2021-05-23 12:02:11,119: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:11,119: Updating Audit Collection
+2021-05-23 12:02:11,342: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:11,342: Updating Audit Collection
+2021-05-23 12:02:12,325: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:12,325: Updating Audit Collection
+2021-05-23 12:02:14,084: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:14,084: Updating Audit Collection
+2021-05-23 12:02:14,352: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:14,352: Updating Audit Collection
+2021-05-23 12:02:14,590: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:14,590: Updating Audit Collection
+2021-05-23 12:02:14,847: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:14,847: Updating Audit Collection
+2021-05-23 12:02:15,236: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:15,236: Updating Audit Collection
+2021-05-23 12:02:15,456: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:15,456: Updating Audit Collection
+2021-05-23 12:02:15,725: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:15,726: Updating Audit Collection
+2021-05-23 12:02:15,950: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:15,950: Updating Audit Collection
+2021-05-23 12:02:16,185: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:16,185: Updating Audit Collection
+2021-05-23 12:02:16,424: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:16,424: Updating Audit Collection
+2021-05-23 12:02:16,662: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:16,662: Updating Audit Collection
+2021-05-23 12:02:16,897: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:16,897: Updating Audit Collection
+2021-05-23 12:02:17,189: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:17,189: Updating Audit Collection
+2021-05-23 12:02:17,434: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:17,434: Updating Audit Collection
+2021-05-23 12:02:17,672: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:17,672: Updating Audit Collection
+2021-05-23 12:02:17,902: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:17,903: Updating Audit Collection
+2021-05-23 12:02:18,129: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:18,129: Updating Audit Collection
+2021-05-23 12:02:18,350: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:18,350: Updating Audit Collection
+2021-05-23 12:02:18,569: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:18,569: Updating Audit Collection
+2021-05-23 12:02:18,788: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:18,788: Updating Audit Collection
+2021-05-23 12:02:19,013: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:19,013: Updating Audit Collection
+2021-05-23 12:02:19,231: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:19,231: Updating Audit Collection
+2021-05-23 12:02:19,455: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:19,456: Updating Audit Collection
+2021-05-23 12:02:19,705: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:19,705: Updating Audit Collection
+2021-05-23 12:02:19,940: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:19,940: Updating Audit Collection
+2021-05-23 12:02:20,166: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:20,166: Updating Audit Collection
+2021-05-23 12:02:20,398: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:20,398: Updating Audit Collection
+2021-05-23 12:02:20,627: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:20,627: Updating Audit Collection
+2021-05-23 12:02:20,874: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:20,875: Updating Audit Collection
+2021-05-23 12:02:21,096: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:21,096: Updating Audit Collection
+2021-05-23 12:02:21,325: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:21,325: Updating Audit Collection
+2021-05-23 12:02:21,560: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:21,560: Updating Audit Collection
+2021-05-23 12:02:21,817: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:21,817: Updating Audit Collection
+2021-05-23 12:02:22,080: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:22,080: Updating Audit Collection
+2021-05-23 12:02:22,327: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:22,327: Updating Audit Collection
+2021-05-23 12:02:22,800: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:22,800: Updating Audit Collection
+2021-05-23 12:02:23,038: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:23,038: Updating Audit Collection
+2021-05-23 12:02:23,271: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:23,271: Updating Audit Collection
+2021-05-23 12:02:23,511: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:23,511: Updating Audit Collection
+2021-05-23 12:02:23,753: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:23,753: Updating Audit Collection
+2021-05-23 12:02:24,051: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:24,051: Updating Audit Collection
+2021-05-23 12:02:24,287: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:24,287: Updating Audit Collection
+2021-05-23 12:02:24,668: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:24,668: Updating Audit Collection
+2021-05-23 12:02:25,853: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:25,853: Updating Audit Collection
+2021-05-23 12:02:27,120: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:27,120: Updating Audit Collection
+2021-05-23 12:02:28,278: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:28,278: Updating Audit Collection
+2021-05-23 12:02:31,275: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:31,275: Updating Audit Collection
+2021-05-23 12:02:31,785: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:31,785: Updating Audit Collection
+2021-05-23 12:02:32,036: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:32,036: Updating Audit Collection
+2021-05-23 12:02:32,334: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:32,334: Updating Audit Collection
+2021-05-23 12:02:33,768: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:33,768: Updating Audit Collection
+2021-05-23 12:02:35,248: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:35,248: Updating Audit Collection
+2021-05-23 12:02:37,462: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:37,462: Updating Audit Collection
+2021-05-23 12:02:38,671: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:38,671: Updating Audit Collection
+2021-05-23 12:02:39,748: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:39,748: Updating Audit Collection
+2021-05-23 12:02:40,682: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:40,682: Updating Audit Collection
+2021-05-23 12:02:40,913: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:40,913: Updating Audit Collection
+2021-05-23 12:02:41,140: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:41,140: Updating Audit Collection
+2021-05-23 12:02:41,375: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:41,375: Updating Audit Collection
+2021-05-23 12:02:41,604: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:41,604: Updating Audit Collection
+2021-05-23 12:02:41,836: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:41,836: Updating Audit Collection
+2021-05-23 12:02:42,066: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:42,067: Updating Audit Collection
+2021-05-23 12:02:42,289: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:42,289: Updating Audit Collection
+2021-05-23 12:02:42,511: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:42,511: Updating Audit Collection
+2021-05-23 12:02:42,741: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:42,741: Updating Audit Collection
+2021-05-23 12:02:42,963: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:42,964: Updating Audit Collection
+2021-05-23 12:02:43,192: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:43,192: Updating Audit Collection
+2021-05-23 12:02:43,415: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:43,415: Updating Audit Collection
+2021-05-23 12:02:43,640: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:43,640: Updating Audit Collection
+2021-05-23 12:02:43,881: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:43,881: Updating Audit Collection
+2021-05-23 12:02:44,121: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:44,121: Updating Audit Collection
+2021-05-23 12:02:44,355: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:44,355: Updating Audit Collection
+2021-05-23 12:02:44,588: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:44,588: Updating Audit Collection
+2021-05-23 12:02:44,820: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:44,821: Updating Audit Collection
+2021-05-23 12:02:45,047: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:45,047: Updating Audit Collection
+2021-05-23 12:02:45,277: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:45,277: Updating Audit Collection
+2021-05-23 12:02:45,513: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:45,513: Updating Audit Collection
+2021-05-23 12:02:45,734: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:45,734: Updating Audit Collection
+2021-05-23 12:02:45,964: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:45,964: Updating Audit Collection
+2021-05-23 12:02:46,186: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:46,187: Updating Audit Collection
+2021-05-23 12:02:46,416: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:46,417: Updating Audit Collection
+2021-05-23 12:02:46,639: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:46,640: Updating Audit Collection
+2021-05-23 12:02:46,864: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:46,865: Updating Audit Collection
+2021-05-23 12:02:47,087: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:47,088: Updating Audit Collection
+2021-05-23 12:02:47,310: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:47,310: Updating Audit Collection
+2021-05-23 12:02:47,545: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:47,545: Updating Audit Collection
+2021-05-23 12:02:47,766: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:47,767: Updating Audit Collection
+2021-05-23 12:02:47,988: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:47,989: Updating Audit Collection
+2021-05-23 12:02:48,210: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:48,210: Updating Audit Collection
+2021-05-23 12:02:48,435: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:48,435: Updating Audit Collection
+2021-05-23 12:02:48,656: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:48,656: Updating Audit Collection
+2021-05-23 12:02:48,878: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:48,878: Updating Audit Collection
+2021-05-23 12:02:49,102: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:49,103: Updating Audit Collection
+2021-05-23 12:02:49,326: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:49,326: Updating Audit Collection
+2021-05-23 12:02:49,553: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:49,553: Updating Audit Collection
+2021-05-23 12:02:49,780: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:49,780: Updating Audit Collection
+2021-05-23 12:02:50,011: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:50,011: Updating Audit Collection
+2021-05-23 12:02:50,236: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:50,236: Updating Audit Collection
+2021-05-23 12:02:50,815: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:50,815: Updating Audit Collection
+2021-05-23 12:02:51,394: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:51,394: Updating Audit Collection
+2021-05-23 12:02:51,931: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:51,931: Updating Audit Collection
+2021-05-23 12:02:52,564: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:52,564: Updating Audit Collection
+2021-05-23 12:02:53,055: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:53,055: Updating Audit Collection
+2021-05-23 12:02:53,579: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:53,579: Updating Audit Collection
+2021-05-23 12:02:54,076: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:54,076: Updating Audit Collection
+2021-05-23 12:02:54,341: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:54,341: Updating Audit Collection
+2021-05-23 12:02:54,910: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:54,910: Updating Audit Collection
+2021-05-23 12:02:55,129: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:55,130: Updating Audit Collection
+2021-05-23 12:02:55,357: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:55,357: Updating Audit Collection
+2021-05-23 12:02:55,581: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:55,581: Updating Audit Collection
+2021-05-23 12:02:55,804: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:55,804: Updating Audit Collection
+2021-05-23 12:02:56,028: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:56,028: Updating Audit Collection
+2021-05-23 12:02:56,248: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:56,248: Updating Audit Collection
+2021-05-23 12:02:56,485: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:56,485: Updating Audit Collection
+2021-05-23 12:02:56,705: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:56,706: Updating Audit Collection
+2021-05-23 12:02:56,938: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:56,938: Updating Audit Collection
+2021-05-23 12:02:57,162: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:57,162: Updating Audit Collection
+2021-05-23 12:02:57,393: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:57,393: Updating Audit Collection
+2021-05-23 12:02:57,620: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:57,620: Updating Audit Collection
+2021-05-23 12:02:57,840: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:57,840: Updating Audit Collection
+2021-05-23 12:02:58,067: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:58,067: Updating Audit Collection
+2021-05-23 12:02:58,296: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:58,296: Updating Audit Collection
+2021-05-23 12:02:58,519: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:58,520: Updating Audit Collection
+2021-05-23 12:02:58,744: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:58,744: Updating Audit Collection
+2021-05-23 12:02:58,965: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:58,965: Updating Audit Collection
+2021-05-23 12:02:59,190: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:59,191: Updating Audit Collection
+2021-05-23 12:02:59,419: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:59,419: Updating Audit Collection
+2021-05-23 12:02:59,637: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:02:59,637: Updating Audit Collection
+2021-05-23 12:03:00,178: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:00,178: Updating Audit Collection
+2021-05-23 12:03:00,409: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:00,410: Updating Audit Collection
+2021-05-23 12:03:00,651: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:00,651: Updating Audit Collection
+2021-05-23 12:03:00,904: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:00,904: Updating Audit Collection
+2021-05-23 12:03:01,153: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:01,153: Updating Audit Collection
+2021-05-23 12:03:01,581: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:01,581: Updating Audit Collection
+2021-05-23 12:03:01,812: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:01,812: Updating Audit Collection
+2021-05-23 12:03:02,032: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:02,032: Updating Audit Collection
+2021-05-23 12:03:02,249: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:02,249: Updating Audit Collection
+2021-05-23 12:03:02,474: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:02,474: Updating Audit Collection
+2021-05-23 12:03:02,745: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:02,745: Updating Audit Collection
+2021-05-23 12:03:02,966: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:02,966: Updating Audit Collection
+2021-05-23 12:03:03,183: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:03,183: Updating Audit Collection
+2021-05-23 12:03:03,404: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:03,404: Updating Audit Collection
+2021-05-23 12:03:03,622: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:03,622: Updating Audit Collection
+2021-05-23 12:03:03,917: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:03,918: Updating Audit Collection
+2021-05-23 12:03:04,137: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:04,137: Updating Audit Collection
+2021-05-23 12:03:04,369: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:04,369: Updating Audit Collection
+2021-05-23 12:03:04,605: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:04,605: Updating Audit Collection
+2021-05-23 12:03:04,839: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:04,840: Updating Audit Collection
+2021-05-23 12:03:05,062: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:05,062: Updating Audit Collection
+2021-05-23 12:03:05,289: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:05,290: Updating Audit Collection
+2021-05-23 12:03:05,520: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:05,520: Updating Audit Collection
+2021-05-23 12:03:05,744: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:05,744: Updating Audit Collection
+2021-05-23 12:03:05,975: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:05,975: Updating Audit Collection
+2021-05-23 12:03:06,201: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:06,201: Updating Audit Collection
+2021-05-23 12:03:06,437: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:06,437: Updating Audit Collection
+2021-05-23 12:03:06,671: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:06,672: Updating Audit Collection
+2021-05-23 12:03:06,962: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:06,962: Updating Audit Collection
+2021-05-23 12:03:07,197: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:07,197: Updating Audit Collection
+2021-05-23 12:03:07,425: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:07,425: Updating Audit Collection
+2021-05-23 12:03:08,532: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:08,532: Updating Audit Collection
+2021-05-23 12:03:09,858: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:09,858: Updating Audit Collection
+2021-05-23 12:03:10,123: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:10,123: Updating Audit Collection
+2021-05-23 12:03:10,379: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:10,379: Updating Audit Collection
+2021-05-23 12:03:10,986: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:10,986: Updating Audit Collection
+2021-05-23 12:03:11,582: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:11,582: Updating Audit Collection
+2021-05-23 12:03:12,237: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:12,237: Updating Audit Collection
+2021-05-23 12:03:12,767: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:12,767: Updating Audit Collection
+2021-05-23 12:03:13,159: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:13,159: Updating Audit Collection
+2021-05-23 12:03:13,379: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:13,379: Updating Audit Collection
+2021-05-23 12:03:13,665: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:13,665: Updating Audit Collection
+2021-05-23 12:03:14,211: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:14,211: Updating Audit Collection
+2021-05-23 12:03:14,470: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:14,470: Updating Audit Collection
+2021-05-23 12:03:14,701: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:14,701: Updating Audit Collection
+2021-05-23 12:03:14,962: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:14,963: Updating Audit Collection
+2021-05-23 12:03:15,184: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:15,184: Updating Audit Collection
+2021-05-23 12:03:15,406: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:15,406: Updating Audit Collection
+2021-05-23 12:03:15,625: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:15,626: Updating Audit Collection
+2021-05-23 12:03:15,847: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:15,848: Updating Audit Collection
+2021-05-23 12:03:16,070: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:16,070: Updating Audit Collection
+2021-05-23 12:03:16,344: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:16,344: Updating Audit Collection
+2021-05-23 12:03:16,572: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:16,572: Updating Audit Collection
+2021-05-23 12:03:16,801: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:16,801: Updating Audit Collection
+2021-05-23 12:03:17,023: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:17,023: Updating Audit Collection
+2021-05-23 12:03:17,243: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:17,244: Updating Audit Collection
+2021-05-23 12:03:17,470: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:17,470: Updating Audit Collection
+2021-05-23 12:03:17,808: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:17,808: Updating Audit Collection
+2021-05-23 12:03:18,027: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:18,027: Updating Audit Collection
+2021-05-23 12:03:18,256: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:18,256: Updating Audit Collection
+2021-05-23 12:03:18,475: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:18,475: Updating Audit Collection
+2021-05-23 12:03:18,699: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:18,700: Updating Audit Collection
+2021-05-23 12:03:18,965: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:18,965: Updating Audit Collection
+2021-05-23 12:03:19,188: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:19,188: Updating Audit Collection
+2021-05-23 12:03:19,412: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:19,412: Updating Audit Collection
+2021-05-23 12:03:19,630: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:19,630: Updating Audit Collection
+2021-05-23 12:03:19,851: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:19,851: Updating Audit Collection
+2021-05-23 12:03:20,074: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:20,074: Updating Audit Collection
+2021-05-23 12:03:20,368: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:20,368: Updating Audit Collection
+2021-05-23 12:03:20,602: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:20,602: Updating Audit Collection
+2021-05-23 12:03:20,835: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:20,835: Updating Audit Collection
+2021-05-23 12:03:21,062: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:21,063: Updating Audit Collection
+2021-05-23 12:03:21,295: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:21,295: Updating Audit Collection
+2021-05-23 12:03:21,531: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:21,531: Updating Audit Collection
+2021-05-23 12:03:21,853: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:21,853: Updating Audit Collection
+2021-05-23 12:03:22,076: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:22,077: Updating Audit Collection
+2021-05-23 12:03:22,299: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:22,300: Updating Audit Collection
+2021-05-23 12:03:22,526: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:22,526: Updating Audit Collection
+2021-05-23 12:03:22,747: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:22,747: Updating Audit Collection
+2021-05-23 12:03:22,983: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:22,983: Updating Audit Collection
+2021-05-23 12:03:23,205: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:23,206: Updating Audit Collection
+2021-05-23 12:03:23,426: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:23,426: Updating Audit Collection
+2021-05-23 12:03:23,658: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:23,658: Updating Audit Collection
+2021-05-23 12:03:23,880: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:23,881: Updating Audit Collection
+2021-05-23 12:03:24,130: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:24,130: Updating Audit Collection
+2021-05-23 12:03:24,488: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:24,488: Updating Audit Collection
+2021-05-23 12:03:24,715: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:24,715: Updating Audit Collection
+2021-05-23 12:03:24,936: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:24,936: Updating Audit Collection
+2021-05-23 12:03:25,157: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:25,157: Updating Audit Collection
+2021-05-23 12:03:25,378: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:25,378: Updating Audit Collection
+2021-05-23 12:03:25,598: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:25,599: Updating Audit Collection
+2021-05-23 12:03:25,933: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:25,933: Updating Audit Collection
+2021-05-23 12:03:26,152: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:26,152: Updating Audit Collection
+2021-05-23 12:03:26,380: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:26,380: Updating Audit Collection
+2021-05-23 12:03:26,598: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:26,598: Updating Audit Collection
+2021-05-23 12:03:26,826: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:26,826: Updating Audit Collection
+2021-05-23 12:03:27,045: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:27,045: Updating Audit Collection
+2021-05-23 12:03:27,315: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:27,315: Updating Audit Collection
+2021-05-23 12:03:27,545: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:27,545: Updating Audit Collection
+2021-05-23 12:03:27,766: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:27,766: Updating Audit Collection
+2021-05-23 12:03:27,988: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:27,988: Updating Audit Collection
+2021-05-23 12:03:28,208: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:28,209: Updating Audit Collection
+2021-05-23 12:03:28,429: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:28,429: Updating Audit Collection
+2021-05-23 12:03:28,719: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:28,719: Updating Audit Collection
+2021-05-23 12:03:28,947: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:28,947: Updating Audit Collection
+2021-05-23 12:03:29,167: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:29,167: Updating Audit Collection
+2021-05-23 12:03:29,395: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:29,395: Updating Audit Collection
+2021-05-23 12:03:29,617: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:29,617: Updating Audit Collection
+2021-05-23 12:03:29,910: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:29,910: Updating Audit Collection
+2021-05-23 12:03:30,136: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:30,136: Updating Audit Collection
+2021-05-23 12:03:30,359: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:30,359: Updating Audit Collection
+2021-05-23 12:03:30,579: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:30,579: Updating Audit Collection
+2021-05-23 12:03:30,807: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:30,807: Updating Audit Collection
+2021-05-23 12:03:31,034: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:31,034: Updating Audit Collection
+2021-05-23 12:03:31,400: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:31,400: Updating Audit Collection
+2021-05-23 12:03:31,875: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:31,875: Updating Audit Collection
+2021-05-23 12:03:32,318: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:32,318: Updating Audit Collection
+2021-05-23 12:03:32,655: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:32,655: Updating Audit Collection
+2021-05-23 12:03:33,051: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:33,052: Updating Audit Collection
+2021-05-23 12:03:33,466: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:33,466: Updating Audit Collection
+2021-05-23 12:03:33,785: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:33,785: Updating Audit Collection
+2021-05-23 12:03:34,196: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:34,196: Updating Audit Collection
+2021-05-23 12:03:34,629: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:34,629: Updating Audit Collection
+2021-05-23 12:03:35,045: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:35,045: Updating Audit Collection
+2021-05-23 12:03:35,266: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:35,266: Updating Audit Collection
+2021-05-23 12:03:35,498: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:35,498: Updating Audit Collection
+2021-05-23 12:03:35,718: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:35,718: Updating Audit Collection
+2021-05-23 12:03:35,947: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:35,947: Updating Audit Collection
+2021-05-23 12:03:36,167: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:36,167: Updating Audit Collection
+2021-05-23 12:03:36,391: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:36,391: Updating Audit Collection
+2021-05-23 12:03:36,612: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:36,612: Updating Audit Collection
+2021-05-23 12:03:36,927: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:36,927: Updating Audit Collection
+2021-05-23 12:03:37,155: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:37,155: Updating Audit Collection
+2021-05-23 12:03:37,377: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:37,377: Updating Audit Collection
+2021-05-23 12:03:37,598: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:37,598: Updating Audit Collection
+2021-05-23 12:03:37,830: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:37,830: Updating Audit Collection
+2021-05-23 12:03:38,137: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:38,138: Updating Audit Collection
+2021-05-23 12:03:38,406: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:38,407: Updating Audit Collection
+2021-05-23 12:03:38,628: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:38,628: Updating Audit Collection
+2021-05-23 12:03:38,849: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:38,849: Updating Audit Collection
+2021-05-23 12:03:39,124: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:39,124: Updating Audit Collection
+2021-05-23 12:03:39,424: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:39,424: Updating Audit Collection
+2021-05-23 12:03:39,653: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:39,653: Updating Audit Collection
+2021-05-23 12:03:39,883: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:39,883: Updating Audit Collection
+2021-05-23 12:03:40,112: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:40,112: Updating Audit Collection
+2021-05-23 12:03:40,346: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:40,346: Updating Audit Collection
+2021-05-23 12:03:40,571: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:40,571: Updating Audit Collection
+2021-05-23 12:03:41,026: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:41,026: Updating Audit Collection
+2021-05-23 12:03:41,296: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:41,297: Updating Audit Collection
+2021-05-23 12:03:41,522: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:41,522: Updating Audit Collection
+2021-05-23 12:03:41,748: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:41,748: Updating Audit Collection
+2021-05-23 12:03:41,971: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:41,971: Updating Audit Collection
+2021-05-23 12:03:42,192: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:42,193: Updating Audit Collection
+2021-05-23 12:03:42,414: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:42,414: Updating Audit Collection
+2021-05-23 12:03:42,634: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:42,635: Updating Audit Collection
+2021-05-23 12:03:42,858: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:42,858: Updating Audit Collection
+2021-05-23 12:03:43,079: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:43,080: Updating Audit Collection
+2021-05-23 12:03:43,307: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:43,307: Updating Audit Collection
+2021-05-23 12:03:43,533: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:43,533: Updating Audit Collection
+2021-05-23 12:03:43,602: Populating Zno_data Collection with 1000 rows
+2021-05-23 12:03:43,602: Updating Audit Collection
+2021-05-23 12:03:43,603: Inserting from DATA/Odata2020File.csv is finished
+2021-05-23 12:04:09,347: Writing query results to file completed in 25 secs
+2021-05-23 12:04:09,347: Program finished in 252 secs
