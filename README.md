@@ -53,3 +53,14 @@ docker-compose -f migrate.yaml up
 ![Logical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/logical.png)
 
 ![Physical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/physical.png)
+
+---
+## Lab 4
+
+Для начала работы нужно загрузить в папку `DATA` [файлы с результатами ЗНО](https://zno.testportal.com.ua/opendata) за несколько лет.
+
+Файл `main.py` выполняет операции по созданию в базе данных коллекций, их заполнению, а также выполнению индивидуального задания.  
+*Задание:* Порівняти середній бал з Історії України у кожному регіоні у 2020 та 2019 роках серед тих кому було зараховано тест  
+Результат запроса будет сохранен в файле `result.csv`  
+
+Нормальный флоу программы сопровождается *логированием* в файл `los.txt`
