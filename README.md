@@ -55,6 +55,18 @@ docker-compose -f migrate.yaml up
 ![Physical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/physical.png)
 
 ---
+## Lab 3
+
+Приложение состоит из следующих частей: REST API (Flask, SQLAlchemy), database (PostgreSQL), web client (Vue js). Архитектурный паттерн базы данных - MVC. Сервис предоставляет доступ к CRUD операциям.  
+Связь между сущностями Actor - Movie имеет связь Many-to-Many через транзитную таблицу Association.  
+Связь между сущностями Movie - Director имет связь Many-to-One.  
+Сервис доступен на облачном хостинге Heroku.
+
+![Heroku web link](https://my-precious-api-flask.herokuapp.com/actors)
+
+Примерный естимейт на выполнение лабораторной работы - 100000 часов.
+
+---
 ## Lab 4
 
 Для начала работы нужно загрузить в папку `DATA` [файлы с результатами ЗНО](https://zno.testportal.com.ua/opendata) за несколько лет.
