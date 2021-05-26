@@ -62,6 +62,8 @@ docker-compose -f migrate.yaml up
 Связь между сущностями Movie - Director имет связь Many-to-One.  
 Сервис доступен на облачном хостинге Heroku.
 
+https://my-precious-api-flask.herokuapp.com/actors  
+
 ![Heroku web link](https://my-precious-api-flask.herokuapp.com/actors)  
 
 Примерный естимейт на выполнение лабораторной работы - 100000 часов.
