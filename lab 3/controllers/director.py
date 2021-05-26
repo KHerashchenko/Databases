@@ -1,5 +1,4 @@
 from flask import jsonify, make_response
-from run import logger
 from datetime import datetime as dt
 
 from models import Director, Movie
@@ -54,7 +53,6 @@ def add_director():
     """
     data = get_request_data()
     data_to_add = {}
-    logger.info(f"add director request: {data}")
     if 'name' in data.keys():
         try:
             data_to_add['name'] = str(data['name'])

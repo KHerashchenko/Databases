@@ -1,7 +1,5 @@
 from flask import jsonify, make_response
-from run import logger
 from datetime import datetime as dt
-from ast import literal_eval
 
 from models import Actor, Movie
 from settings.constants import ACTOR_FIELDS  # to make response pretty
@@ -55,7 +53,6 @@ def add_actor():
     """
     data = get_request_data()
     data_to_add = {}
-    logger.info(f"add actor request: {data}")
     if 'name' in data.keys():
         try:
             data_to_add['name'] = str(data['name'])

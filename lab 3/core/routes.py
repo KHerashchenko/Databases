@@ -6,6 +6,10 @@ from controllers.director import *
 from controllers.movie import *
 
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return app.send_static_file('index.html')
+
 # sanity check route
 @app.route('/ping', methods=['GET'])
 def ping_pong():

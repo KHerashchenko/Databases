@@ -1,7 +1,5 @@
 from flask import jsonify, make_response
 
-from ast import literal_eval
-
 from models import Movie, Actor, Director
 from settings.constants import MOVIE_FIELDS
 from .parse_request import get_request_data
