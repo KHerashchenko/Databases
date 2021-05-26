@@ -4,7 +4,7 @@ from flask_cors import CORS
 app = create_app()
 
 # enable CORS
-CORS(app, resources={r'/*': {'origins': '*'}}, methods= ['GET', 'POST', 'PUT', 'DELETE'])
+CORS(app, resources={r'/*': {'origins': '*'}}, methods= ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])
 
 import logging
 

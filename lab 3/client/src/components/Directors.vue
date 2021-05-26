@@ -2,11 +2,11 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-10">
-        <h1>Actors</h1>
+        <h1>Directors</h1>
         <hr><br><br>
         <alert :message=message v-if="showMessage"></alert>
         <button type="button" class="btn btn-success btn-sm"
-            v-b-modal.actor-modal>Add Actor</button>
+            v-b-modal.director-modal>Add Director</button>
         <br><br>
         <table class="table table-hover">
           <thead>
@@ -19,24 +19,24 @@
             </tr>
           </thead>
           <tbody>
-            <tr v-for="(actor, index) in actors" :key="index">
-              <td>{{ actor.id }}</td>
-              <td>{{ actor.name }}</td>
-              <td>{{ actor.gender }}</td>
-              <td>{{ actor.date_of_birth }}</td>
+            <tr v-for="(director, index) in directors" :key="index">
+              <td>{{ director.id }}</td>
+              <td>{{ director.name }}</td>
+              <td>{{ director.gender }}</td>
+              <td>{{ director.date_of_birth }}</td>
               <td>
                 <div class="btn-group" role="group">
                   <button
                           type="button"
                           class="btn btn-warning btn-sm"
-                          v-b-modal.actor-update-modal
-                          @click="editActor(actor)">
+                          v-b-modal.director-update-modal
+                          @click="editDirector(director)">
                       Update
                   </button>
                   <button
                           type="button"
                           class="btn btn-danger btn-sm"
-                          @click="onDeleteActor(actor)">
+                          @click="onDeleteDirector(director)">
                       Delete
                   </button>
                 </div>
@@ -46,9 +46,9 @@
         </table>
       </div>
     </div>
-    <b-modal ref="addActorModal"
-            id="actor-modal"
-            title="Add a new actor"
+    <b-modal ref="addDirectorModal"
+            id="director-modal"
+            title="Add a new director"
             hide-footer>
       <b-form @submit="onSubmit" @reset="onReset" class="w-100">
       <b-form-group id="form-name-group"
@@ -56,7 +56,7 @@
                     label-for="form-name-input">
           <b-form-input id="form-name-input"
                         type="text"
-                        v-model="addActorForm.name"
+                        v-model="addDirectorForm.name"
                         required
                         placeholder="Enter name">
           </b-form-input>
@@ -65,7 +65,7 @@
       <b-form-group id="form-gender-group"
                     label="Gender:"
                     label-for="form-gender-input">
-          <b-form-select v-model="addActorForm.gender" :options="options"></b-form-select>
+          <b-form-select v-model="addDirectorForm.gender" :options="options"></b-form-select>
 
         </b-form-group>
       <b-form-group id="form-date-group"
@@ -73,7 +73,7 @@
                     label-for="form-date-input">
           <b-form-input id="form-date-input"
                         type="date"
-                        v-model="addActorForm.date_of_birth"
+                        v-model="addDirectorForm.date_of_birth"
                         required
                         placeholder="DD.MM.YYYY">
           </b-form-input>
@@ -84,8 +84,8 @@
         </b-button-group>
       </b-form>
     </b-modal>
-    <b-modal ref="editActorModal"
-            id="actor-update-modal"
+    <b-modal ref="editDirectorModal"
+            id="director-update-modal"
             title="Update"
             hide-footer>
       <b-form @submit="onSubmitUpdate" @reset="onResetUpdate" class="w-100">
@@ -117,7 +117,7 @@
       <b-form-group id="form-date-edit-group"
                     label="Date of birth:"
                     label-for="form-date-edit-input">
-          <b-form-input id="form-date-input"
+          <b-form-input id="form-name-date-input"
                         type="date"
                         v-model="editForm.date_of_birth"
                         required
@@ -145,8 +145,8 @@ export default {
         { value: 'male', text: 'Male' },
         { value: 'female', text: 'Female' },
       ],
-      actors: [],
-      addActorForm: {
+      directors: [],
+      addDirectorForm: {
         name: '',
         gender: null,
         date_of_birth: '',
@@ -165,23 +165,23 @@ export default {
     alert: Alert,
   },
   methods: {
-    getActors() {
-      const path = 'http://localhost:8000/api/actors';
+    getDirectors() {
+      const path = 'http://localhost:8000/api/directors';
       axios.get(path)
         .then((res) => {
-          this.actors = res.data;
+          this.directors = res.data;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
         });
     },
-    addActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    addDirector(payload) {
+      const path = 'http://localhost:8000/api/director';
       axios.post(path, payload)
         .then(() => {
-          this.getActors();
-          this.message = 'actor added!';
+          this.getDirectors();
+          this.message = 'director added!';
           this.showMessage = true;
         })
         .catch((error) => {
@@ -189,7 +189,7 @@ export default {
           console.log(error);
           this.message = error;
           this.showMessage = true;
-          this.getActors();
+          this.getDirectors();
         });
     },
     initForm() {
@@ -203,78 +203,78 @@ export default {
     },
     onSubmit(evt) {
       evt.preventDefault();
-      this.$refs.addActorModal.hide();
+      this.$refs.addDirectorModal.hide();
       const payload = {
-        name: this.addActorForm.name,
-        gender: this.addActorForm.gender,
-        date_of_birth: this.addActorForm.date_of_birth,
+        name: this.addDirectorForm.name,
+        gender: this.addDirectorForm.gender,
+        date_of_birth: this.addDirectorForm.date_of_birth,
       };
-      this.addActor(payload);
+      this.addDirector(payload);
       this.initForm();
     },
     onReset(evt) {
       evt.preventDefault();
-      this.$refs.addActorModal.hide();
+      this.$refs.addDirectorModal.hide();
       this.initForm();
     },
-    editActor(actor) {
-      this.editForm = actor;
+    editDirector(director) {
+      this.editForm = director;
     },
     onSubmitUpdate(evt) {
       evt.preventDefault();
-      this.$refs.editActorModal.hide();
+      this.$refs.editDirectorModal.hide();
       const payload = {
         id: this.editForm.id,
         name: this.editForm.name,
         gender: this.editForm.gender,
         date_of_birth: this.editForm.date_of_birth,
       };
-      this.updateActor(payload);
+      this.updateDirector(payload);
     },
-    updateActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    updateDirector(payload) {
+      const path = 'http://localhost:8000/api/director';
       axios.put(path, payload)
         .then(() => {
-          this.getActors();
-          this.message = 'actor updated!';
+          this.getDirectors();
+          this.message = 'director updated!';
           this.showMessage = true;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
-          this.getActors();
+          this.getDirectors();
         });
     },
     onResetUpdate(evt) {
       evt.preventDefault();
-      this.$refs.editActorModal.hide();
+      this.$refs.editDirectorModal.hide();
       this.initForm();
-      this.getActors(); // why?
+      this.getDirectors(); // why?
     },
-    removeActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    removeDirector(payload) {
+      const path = 'http://localhost:8000/api/director';
 
       axios.delete(path, { data: payload })
         .then(() => {
-          this.getActors();
-          this.message = 'actor removed!';
+          this.getDirectors();
+          this.message = 'director removed!';
           this.showMessage = true;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
-          this.getActors();
+          this.getDirectors();
         });
     },
-    onDeleteActor(actor) {
+    onDeleteDirector(director) {
       const payload = {
-        id: actor.id,
+        id: director.id,
       };
-      this.removeActor(payload);
+      this.removeDirector(payload);
     },
   },
   created() {
-    this.getActors();
+    this.getDirectors();
   },
 };
 </script>

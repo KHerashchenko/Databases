@@ -2,7 +2,7 @@ from flask import jsonify, make_response
 
 from ast import literal_eval
 
-from models import Movie, Actor
+from models import Movie, Actor, Director
 from settings.constants import MOVIE_FIELDS
 from .parse_request import get_request_data
 
@@ -48,7 +48,6 @@ def add_movie():
     Add new movie
     """
     data = get_request_data()
-    ### YOUR CODE HERE ###
     data_to_add = {}
 
     if 'name' in data.keys():
@@ -82,10 +81,15 @@ def add_movie():
         return make_response(jsonify(error=err), 400)
 
     if 'director_id' in data.keys():
+
         try:
             data_to_add['director_id'] = int(data['director_id'])
         except:
             err = 'Id must be integer'
+            return make_response(jsonify(error=err), 400)
+
+        if not Director.query.filter_by(id=int(data['director_id'])).first():
+            err = 'Director record with such id does not exist'
             return make_response(jsonify(error=err), 400)
     else:
         err = 'No director id specified'
@@ -110,7 +114,7 @@ def update_movie():
             err = 'Id must be integer'
             return make_response(jsonify(error=err), 400)
 
-        if not Actor.query.filter_by(id=row_id).first():
+        if not Movie.query.filter_by(id=row_id).first():
             err = 'Record with such id does not exist'
             return make_response(jsonify(error=err), 400)
 

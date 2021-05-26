@@ -17,7 +17,7 @@ def get_all_actors():
     for actor in all_actors:
         act = {k: v for k, v in actor.__dict__.items() if k in ACTOR_FIELDS}
         try:
-            act['date_of_birth'] = (act['date_of_birth']).strftime("%d.%m.%Y")
+            act['date_of_birth'] = (act['date_of_birth']).strftime("%Y-%m-%d")
         except:
             pass
         actors.append(act)
@@ -68,9 +68,9 @@ def add_actor():
 
     if 'date_of_birth' in data.keys():
         try:
-            data_to_add['date_of_birth'] = dt.strptime(data['date_of_birth'], '%d.%m.%Y').date()
+            data_to_add['date_of_birth'] = dt.strptime(data['date_of_birth'], '%Y-%m-%d').date()
         except:
-            err = 'Date of birth must be of format %d.%m.%Y'
+            err = 'Date of birth must be of format %Y-%m-%d'
             return make_response(jsonify(error=err), 400)
     else:
         err = 'No date specified'
@@ -78,7 +78,7 @@ def add_actor():
 
     if 'gender' in data.keys():
         try:
-            data_to_add['gender'] = str('gender')
+            data_to_add['gender'] = str(data['gender'])
         except:
             err = 'Gender of birth must be string'
             return make_response(jsonify(error=err), 400)
@@ -86,7 +86,6 @@ def add_actor():
         err = 'No gender specified'
         return make_response(jsonify(error=err), 400)
 
-    # use this for 200 response code
     if Actor.query.filter_by(name=data_to_add['name']).first():
         err = 'Record with such name already exists'
         return make_response(jsonify(error=err), 400)
@@ -125,9 +124,9 @@ def update_actor():
 
         if 'date_of_birth' in data.keys():
             try:
-                data_actor_upd['date_of_birth'] = dt.strptime(data['date_of_birth'], '%d.%m.%Y').date()
+                data_actor_upd['date_of_birth'] = dt.strptime(data['date_of_birth'], '%Y-%m-%d').date()
             except:
-                err = 'Date of birth must be of format %d.%m.%Y'
+                err = 'Date of birth must be of format %Y-%m-%d'
                 return make_response(jsonify(error=err), 400)
         else:
             err = 'No date specified'

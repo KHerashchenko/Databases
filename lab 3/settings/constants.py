@@ -10,4 +10,4 @@ MOVIE_FIELDS = ['id', 'name', 'year', 'genre', 'director_id']
 DIRECTOR_FIELDS = ['id', 'name', 'gender', 'date_of_birth']
 
 # date of birth format
-DATE_FORMAT = '%d.%m.%Y'
+DATE_FORMAT = '%Y-%m-%d'

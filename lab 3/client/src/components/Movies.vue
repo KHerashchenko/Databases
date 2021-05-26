@@ -2,41 +2,43 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-10">
-        <h1>Actors</h1>
+        <h1>Movies</h1>
         <hr><br><br>
         <alert :message=message v-if="showMessage"></alert>
         <button type="button" class="btn btn-success btn-sm"
-            v-b-modal.actor-modal>Add Actor</button>
+            v-b-modal.movie-modal>Add Movie</button>
         <br><br>
         <table class="table table-hover">
           <thead>
             <tr>
               <th scope="col">ID</th>
               <th scope="col">Name</th>
-              <th scope="col">Gender</th>
-              <th scope="col">Date of birth</th>
+              <th scope="col">Year</th>
+              <th scope="col">Genre</th>
+              <th scope="col">Director ID</th>
               <th></th>
             </tr>
           </thead>
           <tbody>
-            <tr v-for="(actor, index) in actors" :key="index">
-              <td>{{ actor.id }}</td>
-              <td>{{ actor.name }}</td>
-              <td>{{ actor.gender }}</td>
-              <td>{{ actor.date_of_birth }}</td>
+            <tr v-for="(movie, index) in movies" :key="index">
+              <td>{{ movie.id }}</td>
+              <td>{{ movie.name }}</td>
+              <td>{{ movie.year }}</td>
+              <td>{{ movie.genre }}</td>
+              <td>{{ movie.director_id }}</td>
               <td>
                 <div class="btn-group" role="group">
                   <button
                           type="button"
                           class="btn btn-warning btn-sm"
-                          v-b-modal.actor-update-modal
-                          @click="editActor(actor)">
+                          v-b-modal.movie-update-modal
+                          @click="editMovie(movie)">
                       Update
                   </button>
                   <button
                           type="button"
                           class="btn btn-danger btn-sm"
-                          @click="onDeleteActor(actor)">
+                          @click="onDeleteMovie(movie)">
                       Delete
                   </button>
                 </div>
@@ -46,9 +48,9 @@
         </table>
       </div>
     </div>
-    <b-modal ref="addActorModal"
-            id="actor-modal"
-            title="Add a new actor"
+    <b-modal ref="addMovieModal"
+            id="movie-modal"
+            title="Add a new movie"
             hide-footer>
       <b-form @submit="onSubmit" @reset="onReset" class="w-100">
       <b-form-group id="form-name-group"
@@ -56,26 +58,34 @@
                     label-for="form-name-input">
           <b-form-input id="form-name-input"
                         type="text"
-                        v-model="addActorForm.name"
+                        v-model="addMovieForm.name"
                         required
                         placeholder="Enter name">
           </b-form-input>
         </b-form-group>
-
-      <b-form-group id="form-gender-group"
-                    label="Gender:"
-                    label-for="form-gender-input">
-          <b-form-select v-model="addActorForm.gender" :options="options"></b-form-select>
-
-        </b-form-group>
-      <b-form-group id="form-date-group"
-                    label="Date of birth:"
-                    label-for="form-date-input">
-          <b-form-input id="form-date-input"
-                        type="date"
-                        v-model="addActorForm.date_of_birth"
+      <b-form-group id="form-year-group"
+                    label="Year:"
+                    label-for="form-year-input">
+          <b-form-input id="form-year-input"
+                        type="text"
+                        v-model="addMovieForm.year"
                         required
-                        placeholder="DD.MM.YYYY">
+                        placeholder="Enter year">
+          </b-form-input>
+        </b-form-group>
+      <b-form-group id="form-genre-group"
+                    label="Genre:"
+                    label-for="form-genre-input">
+          <b-form-select v-model="addMovieForm.genre" :options="options"></b-form-select>
+        </b-form-group>
+      <b-form-group id="form-director-group"
+                    label="Director ID:"
+                    label-for="form-director-input">
+          <b-form-input id="form-director-input"
+                        type="text"
+                        v-model="addMovieForm.director_id"
+                        required
+                        placeholder="Enter director ID">
           </b-form-input>
         </b-form-group>
         <b-button-group>
@@ -84,8 +94,8 @@
         </b-button-group>
       </b-form>
     </b-modal>
-    <b-modal ref="editActorModal"
-            id="actor-update-modal"
+    <b-modal ref="editMovieModal"
+            id="movie-update-modal"
             title="Update"
             hide-footer>
       <b-form @submit="onSubmitUpdate" @reset="onResetUpdate" class="w-100">
@@ -109,19 +119,29 @@
                         placeholder="Enter name">
           </b-form-input>
         </b-form-group>
-      <b-form-group id="form-gender-edit-group"
-                    label="Gender:"
-                    label-for="form-gender-edit-input">
-          <b-form-select v-model="editForm.gender" :options="options"></b-form-select>
-        </b-form-group>
-      <b-form-group id="form-date-edit-group"
-                    label="Date of birth:"
-                    label-for="form-date-edit-input">
-          <b-form-input id="form-date-input"
-                        type="date"
-                        v-model="editForm.date_of_birth"
+      <b-form-group id="form-year-edit-group"
+                    label="Year:"
+                    label-for="form-year-edit-input">
+          <b-form-input id="form-year-edit-input"
+                        type="text"
+                        v-model="editForm.year"
                         required
-                        placeholder="DD.MM.YYYY">
+                        placeholder="Enter year">
+          </b-form-input>
+        </b-form-group>
+      <b-form-group id="form-genre-edit-group"
+                    label="Genre:"
+                    label-for="form-genre-edit-input">
+          <b-form-select v-model="editForm.genre" :options="options"></b-form-select>
+        </b-form-group>
+      <b-form-group id="form-director-edit-group"
+                    label="Director ID:"
+                    label-for="form-director-edit-input">
+          <b-form-input id="form-director-edit-input"
+                        type="text"
+                        v-model="editForm.director_id"
+                        required
+                        placeholder="Enter director">
           </b-form-input>
         </b-form-group>
         <b-button-group>
@@ -141,23 +161,27 @@ export default {
   data() {
     return {
       options: [
-        { value: null, text: 'Please select a gender' },
-        { value: 'male', text: 'Male' },
-        { value: 'female', text: 'Female' },
+        { value: null, text: 'Please select a genre' },
+        { value: 'drama', text: 'Drama' },
+        { value: 'action', text: 'Action' },
+        { value: 'comedy', text: 'Comedy' },
+        { value: 'horror', text: 'Horror' },
       ],
-      actors: [],
-      addActorForm: {
+      movies: [],
+      addMovieForm: {
         name: '',
-        gender: null,
-        date_of_birth: '',
+        genre: null,
+        year: '',
+        director_id: '',
       },
       message: '',
       showMessage: false,
       editForm: {
         id: '',
         name: '',
-        gender: '',
-        date_of_birth: '',
+        genre: null,
+        year: '',
+        director_id: '',
       },
     };
   },
@@ -165,23 +189,23 @@ export default {
     alert: Alert,
   },
   methods: {
-    getActors() {
-      const path = 'http://localhost:8000/api/actors';
+    getMovies() {
+      const path = 'http://localhost:8000/api/movies';
       axios.get(path)
         .then((res) => {
-          this.actors = res.data;
+          this.movies = res.data;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
         });
     },
-    addActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    addMovie(payload) {
+      const path = 'http://localhost:8000/api/movie';
       axios.post(path, payload)
         .then(() => {
-          this.getActors();
-          this.message = 'actor added!';
+          this.getMovies();
+          this.message = 'movie added!';
           this.showMessage = true;
         })
         .catch((error) => {
@@ -189,92 +213,96 @@ export default {
           console.log(error);
           this.message = error;
           this.showMessage = true;
-          this.getActors();
+          this.getMovies();
         });
     },
     initForm() {
-      this.addDirectorForm.name = '';
-      this.addDirectorForm.gender = null;
-      this.addDirectorForm.date_of_birth = '';
+      this.addMovieForm.name = '';
+      this.addMovieForm.genre = null;
+      this.addMovieForm.year = '';
+      this.addMovieForm.director_id = '';
       this.editForm.id = '';
       this.editForm.name = '';
-      this.editForm.gender = null;
-      this.editForm.date_of_birth = '';
+      this.editForm.genre = null;
+      this.editForm.year = '';
+      this.editForm.director_id = '';
     },
     onSubmit(evt) {
       evt.preventDefault();
-      this.$refs.addActorModal.hide();
+      this.$refs.addMovieModal.hide();
       const payload = {
-        name: this.addActorForm.name,
-        gender: this.addActorForm.gender,
-        date_of_birth: this.addActorForm.date_of_birth,
+        name: this.addMovieForm.name,
+        genre: this.addMovieForm.genre,
+        year: this.addMovieForm.year,
+        director_id: this.addMovieForm.director_id,
       };
-      this.addActor(payload);
+      this.addMovie(payload);
       this.initForm();
     },
     onReset(evt) {
       evt.preventDefault();
-      this.$refs.addActorModal.hide();
+      this.$refs.addMovieModal.hide();
       this.initForm();
     },
-    editActor(actor) {
-      this.editForm = actor;
+    editMovie(movie) {
+      this.editForm = movie;
     },
     onSubmitUpdate(evt) {
       evt.preventDefault();
-      this.$refs.editActorModal.hide();
+      this.$refs.editMovieModal.hide();
       const payload = {
         id: this.editForm.id,
         name: this.editForm.name,
-        gender: this.editForm.gender,
-        date_of_birth: this.editForm.date_of_birth,
+        genre: this.editForm.genre,
+        year: this.editForm.year,
+        director_id: this.editForm.director_id,
       };
-      this.updateActor(payload);
+      this.updateMovie(payload);
     },
-    updateActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    updateMovie(payload) {
+      const path = 'http://localhost:8000/api/movie';
       axios.put(path, payload)
         .then(() => {
-          this.getActors();
-          this.message = 'actor updated!';
+          this.getMovies();
+          this.message = 'movie updated!';
           this.showMessage = true;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
-          this.getActors();
+          this.getMovies();
         });
     },
     onResetUpdate(evt) {
       evt.preventDefault();
-      this.$refs.editActorModal.hide();
+      this.$refs.editMovieModal.hide();
       this.initForm();
-      this.getActors(); // why?
+      this.getMovies(); // why?
     },
-    removeActor(payload) {
-      const path = 'http://localhost:8000/api/actor';
+    removeMovie(payload) {
+      const path = 'http://localhost:8000/api/movie';
 
       axios.delete(path, { data: payload })
         .then(() => {
-          this.getActors();
-          this.message = 'actor removed!';
+          this.getMovies();
+          this.message = 'movie removed!';
           this.showMessage = true;
         })
         .catch((error) => {
           // eslint-disable-next-line
           console.error(error);
-          this.getActors();
+          this.getMovies();
         });
     },
-    onDeleteActor(actor) {
+    onDeleteMovie(movie) {
       const payload = {
-        id: actor.id,
+        id: movie.id,
       };
-      this.removeActor(payload);
+      this.removeMovie(payload);
     },
   },
   created() {
-    this.getActors();
+    this.getMovies();
   },
 };
 </script>

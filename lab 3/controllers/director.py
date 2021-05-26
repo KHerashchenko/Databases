@@ -16,7 +16,7 @@ def get_all_directors():
     for director in all_directors:
         act = {k: v for k, v in director.__dict__.items() if k in DIRECTOR_FIELDS}
         try:
-            act['date_of_birth'] = (act['date_of_birth']).strftime("%d.%m.%Y")
+            act['date_of_birth'] = (act['date_of_birth']).strftime("%Y-%m-%d")
         except:
             pass
         directors.append(act)
@@ -67,9 +67,9 @@ def add_director():
 
     if 'date_of_birth' in data.keys():
         try:
-            data_to_add['date_of_birth'] = dt.strptime(data['date_of_birth'], '%d.%m.%Y').date()
+            data_to_add['date_of_birth'] = dt.strptime(data['date_of_birth'], '%Y-%m-%d').date()
         except:
-            err = 'Date of birth must be of format %d.%m.%Y'
+            err = 'Date of birth must be of format %Y-%m-%d'
             return make_response(jsonify(error=err), 400)
     else:
         err = 'No date specified'
@@ -77,7 +77,7 @@ def add_director():
 
     if 'gender' in data.keys():
         try:
-            data_to_add['gender'] = str('gender')
+            data_to_add['gender'] = str(data['gender'])
         except:
             err = 'Gender of birth must be string'
             return make_response(jsonify(error=err), 400)
@@ -124,9 +124,9 @@ def update_director():
 
         if 'date_of_birth' in data.keys():
             try:
-                data_director_upd['date_of_birth'] = dt.strptime(data['date_of_birth'], '%d.%m.%Y').date()
+                data_director_upd['date_of_birth'] = dt.strptime(data['date_of_birth'], '%Y-%m-%d').date()
             except:
-                err = 'Date of birth must be of format %d.%m.%Y'
+                err = 'Date of birth must be of format %Y-%m-%d'
                 return make_response(jsonify(error=err), 400)
         else:
             err = 'No date specified'

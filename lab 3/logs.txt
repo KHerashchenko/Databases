@@ -315,3 +315,274 @@
 2021-05-25 03:05:47,608:  * Debugger PIN: 189-616-421
 2021-05-25 03:05:48,453:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
 2021-05-25 03:06:11,069: 127.0.0.1 - - [25/May/2021 03:06:11] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-25 19:39:41,901:  * Restarting with stat
+2021-05-25 19:39:42,877:  * Debugger is active!
+2021-05-25 19:39:42,905:  * Debugger PIN: 189-616-421
+2021-05-25 19:39:43,767:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 19:40:36,240: 127.0.0.1 - - [25/May/2021 19:40:36] "[31m[1mPUT /api/director HTTP/1.1[0m" 400 -
+2021-05-25 19:40:48,161: 127.0.0.1 - - [25/May/2021 19:40:48] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 19:41:00,109: 127.0.0.1 - - [25/May/2021 19:41:00] "[31m[1mPOST /api/directors HTTP/1.1[0m" 405 -
+2021-05-25 19:41:09,874: add director request: {'date_of_birth': '10.10.1982', 'gender': 'male', 'name': 'David'}
+2021-05-25 19:41:09,938: 127.0.0.1 - - [25/May/2021 19:41:09] "[37mPOST /api/director HTTP/1.1[0m" 200 -
+2021-05-25 19:41:31,125: 127.0.0.1 - - [25/May/2021 19:41:31] "[37mPUT /api/director HTTP/1.1[0m" 200 -
+2021-05-25 19:57:06,444:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\run.py', reloading
+2021-05-25 19:57:06,748:  * Restarting with stat
+2021-05-25 19:57:10,639:  * Restarting with stat
+2021-05-25 19:57:12,512:  * Debugger is active!
+2021-05-25 19:57:12,551:  * Debugger PIN: 189-616-421
+2021-05-25 19:57:13,443:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 19:57:15,698: 127.0.0.1 - - [25/May/2021 19:57:15] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 19:57:26,348: 127.0.0.1 - - [25/May/2021 19:57:26] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 19:58:20,183: 127.0.0.1 - - [25/May/2021 19:58:20] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 19:58:20,441: add actor request: {'name': 'Leonardo DiCaprio', 'gender': 'male', 'date_of_birth': '11.11.1974'}
+2021-05-25 19:58:20,545: 127.0.0.1 - - [25/May/2021 19:58:20] "[37mPOST /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 19:58:20,584: 127.0.0.1 - - [25/May/2021 19:58:20] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 19:58:38,408: 127.0.0.1 - - [25/May/2021 19:58:38] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:12:55,784:  * Restarting with stat
+2021-05-25 20:12:57,525:  * Debugger is active!
+2021-05-25 20:12:57,670:  * Debugger PIN: 191-737-062
+2021-05-25 20:12:58,590:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 20:13:11,243: 127.0.0.1 - - [25/May/2021 20:13:11] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 20:14:07,924:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\actor.py', reloading
+2021-05-25 20:14:08,167:  * Restarting with stat
+2021-05-25 20:14:12,347:  * Debugger is active!
+2021-05-25 20:14:12,395:  * Debugger PIN: 191-737-062
+2021-05-25 20:14:13,327:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 20:14:13,801: 127.0.0.1 - - [25/May/2021 20:14:13] "[33mOPTIONS /actor HTTP/1.1[0m" 404 -
+2021-05-25 20:14:14,116: 127.0.0.1 - - [25/May/2021 20:14:14] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:19:42,442: 127.0.0.1 - - [25/May/2021 20:19:42] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:19:50,470: 127.0.0.1 - - [25/May/2021 20:19:50] "[33mOPTIONS /actor HTTP/1.1[0m" 404 -
+2021-05-25 20:19:50,756: 127.0.0.1 - - [25/May/2021 20:19:50] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:22:40,144: 127.0.0.1 - - [25/May/2021 20:22:40] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:25:33,470: 127.0.0.1 - - [25/May/2021 20:25:33] "[33mOPTIONS /actor HTTP/1.1[0m" 404 -
+2021-05-25 20:25:33,736: 127.0.0.1 - - [25/May/2021 20:25:33] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:12,772: 127.0.0.1 - - [25/May/2021 20:26:12] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:15,969: 127.0.0.1 - - [25/May/2021 20:26:15] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:26:16,437: 127.0.0.1 - - [25/May/2021 20:26:16] "[37mPUT /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:26:16,574: 127.0.0.1 - - [25/May/2021 20:26:16] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:24,154: 127.0.0.1 - - [25/May/2021 20:26:24] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:26:24,488: 127.0.0.1 - - [25/May/2021 20:26:24] "[37mPUT /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:26:24,542: 127.0.0.1 - - [25/May/2021 20:26:24] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:30,100: 127.0.0.1 - - [25/May/2021 20:26:30] "[33mOPTIONS /api/actor/ HTTP/1.1[0m" 404 -
+2021-05-25 20:26:30,374: 127.0.0.1 - - [25/May/2021 20:26:30] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:52,473: 127.0.0.1 - - [25/May/2021 20:26:52] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:26:58,206: 127.0.0.1 - - [25/May/2021 20:26:58] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:27:03,750: 127.0.0.1 - - [25/May/2021 20:27:03] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:27:04,101: 127.0.0.1 - - [25/May/2021 20:27:04] "[35m[1mDELETE /api/actor HTTP/1.1[0m" 500 -
+2021-05-25 20:27:04,157: 127.0.0.1 - - [25/May/2021 20:27:04] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:30:05,041: 127.0.0.1 - - [25/May/2021 20:30:05] "[37mDELETE /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:32:03,611: 127.0.0.1 - - [25/May/2021 20:32:03] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:32:17,573: 127.0.0.1 - - [25/May/2021 20:32:17] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:32:17,822: add actor request: {'name': 'йцуйц', 'gender': 'йцуйцу', 'date_of_birth': '01.02.1990'}
+2021-05-25 20:32:17,924: 127.0.0.1 - - [25/May/2021 20:32:17] "[37mPOST /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:32:17,983: 127.0.0.1 - - [25/May/2021 20:32:17] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:32:22,313: 127.0.0.1 - - [25/May/2021 20:32:22] "[35m[1mDELETE /api/actor HTTP/1.1[0m" 500 -
+2021-05-25 20:32:22,501: 127.0.0.1 - - [25/May/2021 20:32:22] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:35:19,159: 127.0.0.1 - - [25/May/2021 20:35:19] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:35:34,078: 127.0.0.1 - - [25/May/2021 20:35:34] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:35:36,548: 127.0.0.1 - - [25/May/2021 20:35:36] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:35:36,912: 127.0.0.1 - - [25/May/2021 20:35:36] "[37mDELETE /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 20:35:37,152: 127.0.0.1 - - [25/May/2021 20:35:37] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:37:12,176: 127.0.0.1 - - [25/May/2021 20:37:12] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:38:30,883: 127.0.0.1 - - [25/May/2021 20:38:30] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:39:01,789: 127.0.0.1 - - [25/May/2021 20:39:01] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:40:33,380: 127.0.0.1 - - [25/May/2021 20:40:33] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:42:38,153: 127.0.0.1 - - [25/May/2021 20:42:38] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:46:08,260: 127.0.0.1 - - [25/May/2021 20:46:08] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:46:54,761: 127.0.0.1 - - [25/May/2021 20:46:54] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 20:48:49,724: 127.0.0.1 - - [25/May/2021 20:48:49] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:09:22,463: 127.0.0.1 - - [25/May/2021 21:09:22] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:09:47,033: 127.0.0.1 - - [25/May/2021 21:09:47] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:17:06,374: 127.0.0.1 - - [25/May/2021 21:17:06] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:18:19,700: 127.0.0.1 - - [25/May/2021 21:18:19] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-25 21:18:31,254: 127.0.0.1 - - [25/May/2021 21:18:31] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:18:54,838: 127.0.0.1 - - [25/May/2021 21:18:54] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:19:10,917: 127.0.0.1 - - [25/May/2021 21:19:10] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-25 21:19:13,224: 127.0.0.1 - - [25/May/2021 21:19:13] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:19:15,057: 127.0.0.1 - - [25/May/2021 21:19:15] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:19:16,953: 127.0.0.1 - - [25/May/2021 21:19:16] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:23:38,803: 127.0.0.1 - - [25/May/2021 21:23:38] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:24:14,237: 127.0.0.1 - - [25/May/2021 21:24:14] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:24:14,478: add actor request: {'name': 'Leonardo DiCaprio', 'gender': 'male', 'date_of_birth': '1974-11-11'}
+2021-05-25 21:24:14,491: 127.0.0.1 - - [25/May/2021 21:24:14] "[31m[1mPOST /api/actor HTTP/1.1[0m" 400 -
+2021-05-25 21:24:14,575: 127.0.0.1 - - [25/May/2021 21:24:14] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:26:17,539:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\settings\\constants.py', reloading
+2021-05-25 21:26:18,297:  * Restarting with stat
+2021-05-25 21:26:24,838:  * Debugger is active!
+2021-05-25 21:26:25,007:  * Debugger PIN: 191-737-062
+2021-05-25 21:26:26,030:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:27:20,603:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\actor.py', reloading
+2021-05-25 21:27:20,712:  * Restarting with stat
+2021-05-25 21:27:23,387:  * Debugger is active!
+2021-05-25 21:27:23,418:  * Debugger PIN: 191-737-062
+2021-05-25 21:27:24,314:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:30:03,509:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\actor.py', reloading
+2021-05-25 21:30:03,556:  * Restarting with stat
+2021-05-25 21:30:04,955:  * Debugger is active!
+2021-05-25 21:30:04,969:  * Debugger PIN: 191-737-062
+2021-05-25 21:30:05,832:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:30:47,025:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\actor.py', reloading
+2021-05-25 21:30:47,075:  * Restarting with stat
+2021-05-25 21:30:48,320:  * Debugger is active!
+2021-05-25 21:30:48,334:  * Debugger PIN: 191-737-062
+2021-05-25 21:30:49,197:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:30:58,510:  * Restarting with stat
+2021-05-25 21:30:59,823:  * Debugger is active!
+2021-05-25 21:30:59,836:  * Debugger PIN: 191-737-062
+2021-05-25 21:31:00,699:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:32:04,955: add actor request: {'name': 'John', 'date_of_birth': '2020-01-03', 'gender': 'Male'}
+2021-05-25 21:32:05,121: 127.0.0.1 - - [25/May/2021 21:32:05] "[37mPOST /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:32:15,860: 127.0.0.1 - - [25/May/2021 21:32:15] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:32:41,231: 127.0.0.1 - - [25/May/2021 21:32:41] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:32:41,490: add actor request: {'name': 'Leonardo DiCaprio', 'gender': 'male', 'date_of_birth': '1974-11-11'}
+2021-05-25 21:32:41,528: 127.0.0.1 - - [25/May/2021 21:32:41] "[37mPOST /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:32:41,559: 127.0.0.1 - - [25/May/2021 21:32:41] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:32:45,728: 127.0.0.1 - - [25/May/2021 21:32:45] "[37mDELETE /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:32:45,921: 127.0.0.1 - - [25/May/2021 21:32:45] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:33:39,379: 127.0.0.1 - - [25/May/2021 21:33:39] "[37mOPTIONS /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:33:39,640: add actor request: {'name': 'Kate Winslet', 'gender': 'female', 'date_of_birth': '1975-10-05'}
+2021-05-25 21:33:39,711: 127.0.0.1 - - [25/May/2021 21:33:39] "[37mPOST /api/actor HTTP/1.1[0m" 200 -
+2021-05-25 21:33:39,732: 127.0.0.1 - - [25/May/2021 21:33:39] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:33:54,394: 127.0.0.1 - - [25/May/2021 21:33:54] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-25 21:33:56,810: 127.0.0.1 - - [25/May/2021 21:33:56] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:34:15,069: 127.0.0.1 - - [25/May/2021 21:34:15] "[37mOPTIONS /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:34:15,324: 127.0.0.1 - - [25/May/2021 21:34:15] "[37mDELETE /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:34:15,385: 127.0.0.1 - - [25/May/2021 21:34:15] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:34:38,226: 127.0.0.1 - - [25/May/2021 21:34:38] "[37mOPTIONS /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:34:38,488: add director request: {'name': 'James Cameron', 'gender': 'male', 'date_of_birth': '1954-08-16'}
+2021-05-25 21:34:38,492: 127.0.0.1 - - [25/May/2021 21:34:38] "[31m[1mPOST /api/director HTTP/1.1[0m" 400 -
+2021-05-25 21:34:38,539: 127.0.0.1 - - [25/May/2021 21:34:38] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:36:00,722:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\director.py', reloading
+2021-05-25 21:36:00,779:  * Restarting with stat
+2021-05-25 21:36:02,149:  * Debugger is active!
+2021-05-25 21:36:02,162:  * Debugger PIN: 191-737-062
+2021-05-25 21:36:03,030:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:36:04,975:  * Restarting with stat
+2021-05-25 21:36:07,083:  * Debugger is active!
+2021-05-25 21:36:07,114:  * Debugger PIN: 191-737-062
+2021-05-25 21:36:08,003:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:36:33,346: 127.0.0.1 - - [25/May/2021 21:36:33] "[37mOPTIONS /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:36:33,612: add director request: {'name': 'James Cameron', 'gender': 'male', 'date_of_birth': '1954-08-16'}
+2021-05-25 21:36:33,675: 127.0.0.1 - - [25/May/2021 21:36:33] "[37mPOST /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:36:33,693: 127.0.0.1 - - [25/May/2021 21:36:33] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:37:08,885:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\director.py', reloading
+2021-05-25 21:37:08,987:  * Restarting with stat
+2021-05-25 21:37:11,247:  * Debugger is active!
+2021-05-25 21:37:11,274:  * Debugger PIN: 191-737-062
+2021-05-25 21:37:12,139:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-25 21:38:00,728: 127.0.0.1 - - [25/May/2021 21:38:00] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:38:13,176: 127.0.0.1 - - [25/May/2021 21:38:13] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:39:48,075: 127.0.0.1 - - [25/May/2021 21:39:48] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:40:40,335: 127.0.0.1 - - [25/May/2021 21:40:40] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:41:29,013: 127.0.0.1 - - [25/May/2021 21:41:29] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-25 21:41:35,183: 127.0.0.1 - - [25/May/2021 21:41:35] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:41:40,659: 127.0.0.1 - - [25/May/2021 21:41:40] "[37mOPTIONS /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:41:40,953: 127.0.0.1 - - [25/May/2021 21:41:40] "[37mPUT /api/director HTTP/1.1[0m" 200 -
+2021-05-25 21:41:40,984: 127.0.0.1 - - [25/May/2021 21:41:40] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-25 21:41:45,353: 127.0.0.1 - - [25/May/2021 21:41:45] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-26 00:18:45,666: 127.0.0.1 - - [26/May/2021 00:18:45] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 00:25:01,619: 127.0.0.1 - - [26/May/2021 00:25:01] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-26 00:26:13,488: 127.0.0.1 - - [26/May/2021 00:26:13] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-26 00:26:15,617: 127.0.0.1 - - [26/May/2021 00:26:15] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 01:07:46,595:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:07:46,875:  * Restarting with stat
+2021-05-26 01:07:48,286:  * Debugger is active!
+2021-05-26 01:07:48,314:  * Debugger PIN: 191-737-062
+2021-05-26 01:07:49,212:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:09:26,009: 127.0.0.1 - - [26/May/2021 01:09:26] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 01:09:29,342: 127.0.0.1 - - [26/May/2021 01:09:29] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-26 01:09:35,095: 127.0.0.1 - - [26/May/2021 01:09:35] "[37mPOST /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 01:09:44,015: 127.0.0.1 - - [26/May/2021 01:09:44] "[31m[1mPOST /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:09:51,069: 127.0.0.1 - - [26/May/2021 01:09:51] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:36:26,843:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:36:26,924:  * Restarting with stat
+2021-05-26 01:36:29,432:  * Restarting with stat
+2021-05-26 01:36:30,702:  * Debugger is active!
+2021-05-26 01:36:30,730:  * Debugger PIN: 191-737-062
+2021-05-26 01:36:31,614:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:36:35,333: 127.0.0.1 - - [26/May/2021 01:36:35] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:37:17,121:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:37:17,174:  * Restarting with stat
+2021-05-26 01:37:18,317:  * Debugger is active!
+2021-05-26 01:37:18,330:  * Debugger PIN: 191-737-062
+2021-05-26 01:37:19,259:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:37:45,691:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:37:45,729:  * Restarting with stat
+2021-05-26 01:37:46,765:  * Debugger is active!
+2021-05-26 01:37:46,777:  * Debugger PIN: 191-737-062
+2021-05-26 01:37:48,524:  * Restarting with stat
+2021-05-26 01:37:49,583:  * Debugger is active!
+2021-05-26 01:37:49,595:  * Debugger PIN: 191-737-062
+2021-05-26 01:37:50,469:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:37:52,928: 127.0.0.1 - - [26/May/2021 01:37:52] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:38:10,758:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:38:10,821:  * Restarting with stat
+2021-05-26 01:38:11,066:  * Restarting with stat
+2021-05-26 01:38:11,978:  * Debugger is active!
+2021-05-26 01:38:11,991:  * Debugger PIN: 191-737-062
+2021-05-26 01:38:12,203:  * Debugger is active!
+2021-05-26 01:38:12,217:  * Debugger PIN: 191-737-062
+2021-05-26 01:38:12,927:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:38:13,243:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:38:13,634: 127.0.0.1 - - [26/May/2021 01:38:13] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:38:20,459: 127.0.0.1 - - [26/May/2021 01:38:20] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:38:37,261:  * Restarting with stat
+2021-05-26 01:38:38,289:  * Debugger is active!
+2021-05-26 01:38:38,302:  * Debugger PIN: 191-737-062
+2021-05-26 01:38:39,253:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:38:45,994: 127.0.0.1 - - [26/May/2021 01:38:45] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:38:58,185:  * Restarting with stat
+2021-05-26 01:38:59,191:  * Debugger is active!
+2021-05-26 01:38:59,204:  * Debugger PIN: 191-737-062
+2021-05-26 01:39:00,101:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:39:02,637: 127.0.0.1 - - [26/May/2021 01:39:02] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:39:31,480:  * Restarting with stat
+2021-05-26 01:39:32,501:  * Debugger is active!
+2021-05-26 01:39:32,513:  * Debugger PIN: 191-737-062
+2021-05-26 01:39:33,387:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:39:35,530: 127.0.0.1 - - [26/May/2021 01:39:35] "[35m[1mPOST /api/movie HTTP/1.1[0m" 500 -
+2021-05-26 01:41:32,316:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:41:32,386:  * Restarting with stat
+2021-05-26 01:41:33,491:  * Debugger is active!
+2021-05-26 01:41:33,504:  * Debugger PIN: 191-737-062
+2021-05-26 01:41:34,373:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:41:35,802: 127.0.0.1 - - [26/May/2021 01:41:35] "[31m[1mPOST /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:41:44,780: 127.0.0.1 - - [26/May/2021 01:41:44] "[31m[1mPOST /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:41:50,501: 127.0.0.1 - - [26/May/2021 01:41:50] "[31m[1mPUT /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:42:00,368: 127.0.0.1 - - [26/May/2021 01:42:00] "[31m[1mPUT /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:42:04,700: 127.0.0.1 - - [26/May/2021 01:42:04] "[31m[1mPUT /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:42:11,380: 127.0.0.1 - - [26/May/2021 01:42:11] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 01:42:23,937: 127.0.0.1 - - [26/May/2021 01:42:23] "[31m[1mPUT /api/movies HTTP/1.1[0m" 405 -
+2021-05-26 01:42:27,181: 127.0.0.1 - - [26/May/2021 01:42:27] "[31m[1mPUT /api/movie HTTP/1.1[0m" 400 -
+2021-05-26 01:43:17,651:  * Detected change in 'C:\\Users\\Катя\\ProgrammingFiles\\Databases\\Databases\\lab 3\\controllers\\movie.py', reloading
+2021-05-26 01:43:17,697:  * Restarting with stat
+2021-05-26 01:43:18,766:  * Debugger is active!
+2021-05-26 01:43:18,778:  * Debugger PIN: 191-737-062
+2021-05-26 01:43:20,209:  * Restarting with stat
+2021-05-26 01:43:21,594:  * Debugger is active!
+2021-05-26 01:43:21,609:  * Debugger PIN: 191-737-062
+2021-05-26 01:43:22,558:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2021-05-26 01:43:25,085: 127.0.0.1 - - [26/May/2021 01:43:25] "[37mPUT /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 01:43:35,238: 127.0.0.1 - - [26/May/2021 01:43:35] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 01:49:22,885: 127.0.0.1 - - [26/May/2021 01:49:22] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-26 01:49:29,546: 127.0.0.1 - - [26/May/2021 01:49:29] "[31m[1mPOST /api/movie-relations HTTP/1.1[0m" 405 -
+2021-05-26 01:49:35,106: 127.0.0.1 - - [26/May/2021 01:49:35] "[37mPUT /api/movie-relations HTTP/1.1[0m" 200 -
+2021-05-26 01:49:50,512: 127.0.0.1 - - [26/May/2021 01:49:50] "[37mPUT /api/movie-relations HTTP/1.1[0m" 200 -
+2021-05-26 02:26:44,536: 127.0.0.1 - - [26/May/2021 02:26:44] "[37mGET /api/actors HTTP/1.1[0m" 200 -
+2021-05-26 02:27:13,417: 127.0.0.1 - - [26/May/2021 02:27:13] "[31m[1mGET /api/actor-relations HTTP/1.1[0m" 405 -
+2021-05-26 02:29:44,795: 127.0.0.1 - - [26/May/2021 02:29:44] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:29:58,206: 127.0.0.1 - - [26/May/2021 02:29:58] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:38:56,963: add director request: {'date_of_birth': '1963-03-27', 'name': 'Quentin Tarantino', 'gender': 'male'}
+2021-05-26 02:38:57,008: 127.0.0.1 - - [26/May/2021 02:38:57] "[37mPOST /api/director HTTP/1.1[0m" 200 -
+2021-05-26 02:39:04,167: 127.0.0.1 - - [26/May/2021 02:39:04] "[37mOPTIONS /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:39:04,480: 127.0.0.1 - - [26/May/2021 02:39:04] "[37mPOST /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:39:04,491: 127.0.0.1 - - [26/May/2021 02:39:04] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:45:35,288: 127.0.0.1 - - [26/May/2021 02:45:35] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:46:29,398: 127.0.0.1 - - [26/May/2021 02:46:29] "[37mOPTIONS /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:46:29,675: 127.0.0.1 - - [26/May/2021 02:46:29] "[37mPUT /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:46:29,705: 127.0.0.1 - - [26/May/2021 02:46:29] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:46:35,953: 127.0.0.1 - - [26/May/2021 02:46:35] "[37mOPTIONS /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:46:36,273: 127.0.0.1 - - [26/May/2021 02:46:36] "[37mPUT /api/movie HTTP/1.1[0m" 200 -
+2021-05-26 02:46:36,514: 127.0.0.1 - - [26/May/2021 02:46:36] "[37mGET /api/movies HTTP/1.1[0m" 200 -
+2021-05-26 02:46:41,975: 127.0.0.1 - - [26/May/2021 02:46:41] "[37mGET /api/directors HTTP/1.1[0m" 200 -
+2021-05-26 02:46:45,304: 127.0.0.1 - - [26/May/2021 02:46:45] "[37mGET /api/actors HTTP/1.1[0m" 200 -
