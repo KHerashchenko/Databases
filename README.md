@@ -1,4 +1,4 @@
-# Databases Labs - Herashchenko Kateryna
+# Databases Course - Herashchenko Kateryna
 
 ## Quick Eng README:
 
@@ -6,7 +6,7 @@ Lab 3 is a quite big project within Databases university course. Result of a pro
 
 
 ## Ru README:
-## Lab 1
+### Lab 1
 
 Для начала работы нужно загрузить в папку `DATA` [файлы с результатами ЗНО](https://zno.testportal.com.ua/opendata) за несколько лет.   
 Далее в корне проекта выполнить команду `docker-compose up`  
@@ -46,7 +46,7 @@ Custom query result is stored in DATA/custom_query_result.txt
 Данные о времени транзакций содержатся в таблице `audit` в поле `execution_time`
 
 ---
-## Lab 2
+### Lab 2
 
 Для старта сервисов pgadmin4 и postgres требуется выполнить команду `docker-compose up`. Далее можно повторить действия из первой лабораторной работы, чтобы заполнить бд данными.  
 Далее проводим миграции с помощью имеджа flyway.
@@ -61,7 +61,7 @@ docker-compose -f migrate.yaml up
 ![Physical model](https://github.com/KHerashchenko/Databases/blob/master/lab%202/physical.png)
 
 ---
-## Lab 3
+### Lab 3
 
 Приложение состоит из следующих частей: REST API (Flask, SQLAlchemy), database (PostgreSQL), web client (Vue js). Архитектурный паттерн базы данных - MVC. Сервис предоставляет доступ к CRUD операциям.  
 Связь между сущностями Actor - Movie имеет связь Many-to-Many через транзитную таблицу Association.  
@@ -73,7 +73,7 @@ docker-compose -f migrate.yaml up
 Примерный естимейт на выполнение лабораторной работы - 100000 часов.
 
 ---
-## Lab 4
+### Lab 4
 
 Для начала работы нужно загрузить в папку `DATA` [файлы с результатами ЗНО](https://zno.testportal.com.ua/opendata) за несколько лет.
 
