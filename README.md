@@ -3,7 +3,8 @@
 ## Quick Eng README:
 
 Lab 3 is a quite big project within Databases university course. Result of a project is a web app located on Heroku - [Heroku web link](https://my-precious-api-flask.herokuapp.com/actors).  
-It is built of three parts: REST API (Flask, SQLAlchemy), database (PostgreSQL), web client (Vue js). Design Pattern for the database is MVC (Model-View-Controller). The service provides access to CRUD operations. 
+It is built of three parts: REST API (Flask, SQLAlchemy), database (PostgreSQL), web client (Vue js). Design Pattern for the database is MVC (Model-View-Controller). The service provides access to CRUD operations.  
+Actor - Movie relation is Many-to-Many (using join table Association), Movie - Director relation is Many-to-One. 
 
 
 ## Ru README:
