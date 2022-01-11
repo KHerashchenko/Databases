@@ -1,5 +1,11 @@
-# Databases Labs - Геращенко Катерина
+# Databases Labs - Herashchenko Kateryna
 
+## Quick Eng README:
+
+Lab 3 is a quite big project within Databases university course. Result of a project is a web app located on Heroku - [Heroku web link](https://my-precious-api-flask.herokuapp.com/actors). It is built of three parts: REST API (Flask, SQLAlchemy), database (PostgreSQL), web client (Vue js). Design Pattern for the database is MVC (Model-View-Controller). The service provides access to CRUD operations. 
+
+
+## Ru README:
 ## Lab 1
 
 Для начала работы нужно загрузить в папку `DATA` [файлы с результатами ЗНО](https://zno.testportal.com.ua/opendata) за несколько лет.   
